@@ -1,0 +1,1119 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1688655277254,459,Create User,200,OK,DB 2-2,text,true,,250,413,123,400,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,459,0,202
+1688655277260,461,Create User,200,OK,DB 2-3,text,true,,250,413,123,400,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,461,0,208
+1688655277266,455,Create User,200,OK,DB 2-4,text,true,,250,413,123,400,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,455,0,202
+1688655277249,472,Create User,200,OK,DB 2-1,text,true,,250,413,123,400,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,472,0,211
+1688655277291,439,Create User,200,OK,DB 2-8,text,true,,250,413,123,400,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,439,0,202
+1688655277285,437,Create User,200,OK,DB 2-7,text,true,,250,413,123,400,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,437,0,207
+1688655277297,434,Create User,200,OK,DB 2-9,text,true,,250,413,123,400,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,434,0,202
+1688655277279,452,Create User,200,OK,DB 2-6,text,true,,250,413,123,400,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,452,0,207
+1688655277273,458,Create User,200,OK,DB 2-5,text,true,,250,413,123,400,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,458,0,206
+1688655277303,430,Create User,200,OK,DB 2-10,text,true,,250,413,125,404,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,430,0,206
+1688655277315,420,Create User,200,OK,DB 2-12,text,true,,250,413,125,406,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,420,0,201
+1688655277327,408,Create User,200,OK,DB 2-14,text,true,,250,413,125,406,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,408,0,197
+1688655277309,437,Create User,200,OK,DB 2-11,text,true,,250,413,127,412,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,437,0,211
+1688655277346,411,Create User,200,OK,DB 2-17,text,true,,250,413,129,418,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,411,0,197
+1688655277340,418,Create User,200,OK,DB 2-16,text,true,,250,413,129,419,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,418,0,200
+1688655277334,426,Create User,200,OK,DB 2-15,text,true,,250,413,129,419,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,426,0,204
+1688655277321,440,Create User,200,OK,DB 2-13,text,true,,250,413,129,419,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,440,0,211
+1688655277359,409,Create User,200,OK,DB 2-19,text,true,,250,413,131,424,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,409,0,197
+1688655277365,417,Create User,200,OK,DB 2-20,text,true,,250,413,133,431,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,417,0,201
+1688655277352,438,Create User,200,OK,DB 2-18,text,true,,250,413,134,435,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,438,0,211
+1688655277378,446,Create User,200,OK,DB 2-22,text,true,,250,413,140,453,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,446,0,204
+1688655277391,433,Create User,200,OK,DB 2-24,text,true,,250,413,140,453,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,433,0,199
+1688655277372,453,Create User,200,OK,DB 2-21,text,true,,250,413,140,454,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,453,0,213
+1688655277403,422,Create User,200,OK,DB 2-26,text,true,,250,413,140,454,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,422,0,197
+1688655277397,428,Create User,200,OK,DB 2-25,text,true,,250,413,140,454,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,428,0,207
+1688655277389,436,Create User,200,OK,DB 2-23,text,true,,250,413,140,454,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,436,0,210
+1688655277423,465,Create User,200,OK,DB 2-29,text,true,,250,413,150,488,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,465,0,232
+1688655277416,484,Create User,200,OK,DB 2-28,text,true,,250,413,152,495,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,484,0,240
+1688655277429,472,Create User,200,OK,DB 2-30,text,true,,250,413,152,495,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,472,0,227
+1688655277471,432,Create User,200,OK,DB 2-37,text,true,,250,413,153,497,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,432,0,196
+1688655277453,452,Create User,200,OK,DB 2-34,text,true,,250,413,153,497,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,452,0,207
+1688655277409,497,Create User,200,OK,DB 2-27,text,true,,250,413,153,497,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,497,0,247
+1688655277435,473,Create User,200,OK,DB 2-31,text,true,,250,413,153,498,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,473,0,221
+1688655277441,467,Create User,200,OK,DB 2-32,text,true,,250,413,153,498,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,467,0,218
+1688655277447,465,Create User,200,OK,DB 2-33,text,true,,250,413,154,501,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,465,0,217
+1688655277465,447,Create User,200,OK,DB 2-36,text,true,,250,413,154,501,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,447,0,207
+1688655277484,431,Create User,200,OK,DB 2-39,text,true,,250,413,154,502,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,431,0,196
+1688655277459,461,Create User,200,OK,DB 2-35,text,true,,250,413,155,504,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,461,0,217
+1688655277490,439,Create User,200,OK,DB 2-40,text,true,,250,413,156,508,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,439,0,204
+1688655277504,425,Create User,200,OK,DB 2-42,text,true,,250,413,157,510,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,425,0,200
+1688655277478,453,Create User,200,OK,DB 2-38,text,true,,250,413,157,510,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,453,0,205
+1688655277497,439,Create User,200,OK,DB 2-41,text,true,,250,413,158,513,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,439,0,207
+1688655277510,442,Create User,200,OK,DB 2-43,text,true,,250,413,159,517,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,442,0,212
+1688655277522,430,Create User,200,OK,DB 2-45,text,true,,250,413,159,517,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,430,0,208
+1688655277516,436,Create User,200,OK,DB 2-44,text,true,,250,413,159,517,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,436,0,206
+1688655277528,427,Create User,200,OK,DB 2-46,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,427,0,205
+1688655277540,431,Create User,200,OK,DB 2-48,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,431,0,206
+1688655277534,439,Create User,200,OK,DB 2-47,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,439,0,210
+1688655277546,433,Create User,200,OK,DB 2-49,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,433,0,207
+1688655277565,417,Create User,200,OK,DB 2-52,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,417,0,201
+1688655277559,431,Create User,200,OK,DB 2-51,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,431,0,207
+1688655277572,419,Create User,200,OK,DB 2-53,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,419,0,201
+1688655277553,443,Create User,200,OK,DB 2-50,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,443,0,213
+1688655277578,430,Create User,200,OK,DB 2-54,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,430,0,206
+1688655277584,432,Create User,200,OK,DB 2-55,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,432,0,209
+1688655277590,431,Create User,200,OK,DB 2-56,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,431,0,209
+1688655277596,434,Create User,200,OK,DB 2-57,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,434,0,217
+1688655277626,421,Create User,200,OK,DB 2-62,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,421,0,202
+1688655277602,454,Create User,200,OK,DB 2-58,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,454,0,223
+1688655277658,411,Create User,200,OK,DB 2-67,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,411,0,200
+1688655277651,427,Create User,200,OK,DB 2-66,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,427,0,208
+1688655277645,445,Create User,200,OK,DB 2-65,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,445,0,217
+1688655277670,429,Create User,200,OK,DB 2-69,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,429,0,209
+1688655277676,434,Create User,200,OK,DB 2-70,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,434,0,212
+1688655277708,420,Create User,200,OK,DB 2-75,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,420,0,203
+1688655277701,429,Create User,200,OK,DB 2-74,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,429,0,209
+1688655277689,441,Create User,200,OK,DB 2-72,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,441,0,214
+1688655277740,420,Create User,200,OK,DB 2-80,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,420,0,204
+1688655277746,414,Create User,200,OK,DB 2-81,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,414,0,202
+1688655277731,431,Create User,200,OK,DB 2-77,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,431,0,209
+1688655277734,436,Create User,200,OK,DB 2-79,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,436,0,214
+1688655277771,435,Create User,200,OK,DB 2-85,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,435,0,207
+1688655277801,410,Create User,200,OK,DB 2-90,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,410,0,199
+1688655277814,419,Create User,200,OK,DB 2-92,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,419,0,201
+1688655278033,255,Create Magazine,200,OK,DB 2-8,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,255,0,0
+1688655278034,256,Create Magazine,200,OK,DB 2-12,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,256,0,0
+1688655278033,292,Create Magazine,200,OK,DB 2-2,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,292,0,0
+1688655278033,297,Create Magazine,200,OK,DB 2-9,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,297,0,0
+1688655278033,300,Create Magazine,200,OK,DB 2-5,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,300,0,0
+1688655278034,299,Create Magazine,200,OK,DB 2-14,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,299,0,0
+1688655277838,507,Create User,200,OK,DB 2-96,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,507,0,201
+1688655278032,315,Create Magazine,200,OK,DB 2-10,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,315,0,0
+1688655278033,314,Create Magazine,200,OK,DB 2-6,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,314,0,0
+1688655278033,319,Create Magazine,200,OK,DB 2-7,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,319,0,0
+1688655278033,333,Create Magazine,200,OK,DB 2-1,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,333,0,0
+1688655278033,333,Create Magazine,200,OK,DB 2-3,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,333,0,0
+1688655277826,547,Create User,200,OK,DB 2-94,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,547,0,212
+1688655278046,333,Create Magazine,200,OK,DB 2-11,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,333,0,0
+1688655278057,324,Create Magazine,200,OK,DB 2-17,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,324,0,0
+1688655278058,326,Create Magazine,200,OK,DB 2-16,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,326,0,0
+1688655277844,542,Create User,200,OK,DB 2-97,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,542,0,207
+1688655278060,334,Create Magazine,200,OK,DB 2-13,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,334,0,0
+1688655277851,564,Create User,200,OK,DB 2-98,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,564,0,211
+1688655277881,535,Create User,200,OK,DB 2-103,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,535,0,198
+1688655277893,525,Create User,200,OK,DB 2-105,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,525,0,197
+1688655278090,337,Create Magazine,200,OK,DB 2-18,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,337,0,0
+1688655277869,558,Create User,200,OK,DB 2-101,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,558,0,211
+1688655277918,509,Create User,200,OK,DB 2-109,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,509,0,195
+1688655277914,518,Create User,200,OK,DB 2-108,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,518,0,200
+1688655278124,310,Create Magazine,200,OK,DB 2-24,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,310,0,0
+1688655278124,315,Create Magazine,200,OK,DB 2-21,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,315,0,0
+1688655278125,314,Create Magazine,200,OK,DB 2-25,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,314,0,0
+1688655278124,317,Create Magazine,200,OK,DB 2-22,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,317,0,0
+1688655277924,520,Create User,200,OK,DB 2-110,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,520,0,206
+1688655277944,510,Create User,200,OK,DB 2-113,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,510,0,205
+1688655277963,496,Create User,200,OK,DB 2-116,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,496,0,199
+1688655277957,521,Create User,200,OK,DB 2-115,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,521,0,208
+1688655277989,493,Create User,200,OK,DB 2-120,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,493,0,196
+1688655277952,534,Create User,200,OK,DB 2-114,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,534,0,217
+1688655278188,301,Create Magazine,200,OK,DB 2-29,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,301,0,0
+1688655278205,301,Create Magazine,200,OK,DB 2-34,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,301,0,0
+1688655278001,507,Create User,200,OK,DB 2-122,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,507,0,205
+1688655278010,499,Create User,200,OK,DB 2-123,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,499,0,200
+1688655277983,526,Create User,200,OK,DB 2-119,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,526,0,223
+1688655278215,295,Create Magazine,200,OK,DB 2-39,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,295,0,0
+1688655278200,311,Create Magazine,200,OK,DB 2-28,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,311,0,0
+1688655277996,517,Create User,200,OK,DB 2-121,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,517,0,210
+1688655278207,307,Create Magazine,200,OK,DB 2-31,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,307,0,0
+1688655278206,309,Create Magazine,200,OK,DB 2-27,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,309,0,0
+1688655278207,311,Create Magazine,200,OK,DB 2-32,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,311,0,0
+1688655278213,313,Create Magazine,200,OK,DB 2-33,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,313,0,0
+1688655278229,303,Create Magazine,200,OK,DB 2-40,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,303,0,0
+1688655278037,500,Create User,200,OK,DB 2-126,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,500,0,200
+1688655278220,318,Create Magazine,200,OK,DB 2-35,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,318,0,0
+1688655278235,304,Create Magazine,200,OK,DB 2-41,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,304,0,0
+1688655278034,507,Create User,200,OK,DB 2-124,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,507,0,206
+1688655278043,500,Create User,200,OK,DB 2-127,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,500,0,202
+1688655278068,490,Create User,200,OK,DB 2-131,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,490,0,196
+1688655278032,529,Create User,200,OK,DB 2-125,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,529,0,215
+1688655278262,299,Create Magazine,200,OK,DB 2-45,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,299,0,0
+1688655278262,308,Create Magazine,200,OK,DB 2-44,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,308,0,0
+1688655278262,309,Create Magazine,200,OK,DB 2-43,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,309,0,0
+1688655278055,522,Create User,200,OK,DB 2-129,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,522,0,210
+1688655278061,518,Create User,200,OK,DB 2-130,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,518,0,208
+1688655278277,311,Create Magazine,200,OK,DB 2-47,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,311,0,0
+1688655278292,299,Create Magazine,200,OK,DB 2-52,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,299,0,0
+1688655278097,495,Create User,200,OK,DB 2-136,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,495,0,198
+1688655278292,303,Create Magazine,200,OK,DB 2-53,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,303,0,0
+1688655278292,304,Create Magazine,200,OK,DB 2-51,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,304,0,0
+1688655278292,308,Create Magazine,200,OK,DB 2-49,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,308,0,0
+1688655278085,520,Create User,200,OK,DB 2-134,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,520,0,214
+1688655278110,498,Create User,200,OK,DB 2-138,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,498,0,200
+1688655278091,518,Create User,200,OK,DB 2-135,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,518,0,210
+1688655278121,489,Create User,200,OK,DB 2-140,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,489,0,199
+1688655278307,304,Create Magazine,200,OK,DB 2-50,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,304,0,0
+1688655278103,513,Create User,200,OK,DB 2-137,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,513,0,212
+1688655278323,294,Create Magazine,200,OK,DB 2-55,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,294,0,0
+1688655278323,295,Create Magazine,200,OK,DB 2-54,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,295,0,0
+1688655278323,296,Create Magazine,200,OK,DB 2-56,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,296,0,0
+1688655278116,509,Create User,200,OK,DB 2-139,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,509,0,212
+1688655278145,482,Create User,200,OK,DB 2-144,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,482,0,199
+1688655278338,294,Create Magazine,200,OK,DB 2-57,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,294,0,0
+1688655278139,501,Create User,200,OK,DB 2-143,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,501,0,212
+1688655278127,516,Create User,200,OK,DB 2-141,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,516,0,217
+1688655278383,263,Create Magazine,200,OK,DB 2-67,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,263,0,0
+1688655278383,266,Create Magazine,200,OK,DB 2-66,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,266,0,0
+1688655278190,461,Create User,200,OK,DB 2-151,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,461,0,198
+1688655278170,484,Create User,200,OK,DB 2-148,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,484,0,211
+1688655278184,479,Create User,200,OK,DB 2-150,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,479,0,211
+1688655278203,463,Create User,200,OK,DB 2-153,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,463,0,203
+1688655278399,268,Create Magazine,200,OK,DB 2-65,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,268,0,0
+1688655278216,452,Create User,200,OK,DB 2-155,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,452,0,200
+1688655278197,475,Create User,200,OK,DB 2-152,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,475,0,211
+1688655278414,258,Create Magazine,200,OK,DB 2-70,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,258,0,0
+1688655278444,238,Create Magazine,200,OK,DB 2-74,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,238,0,0
+1688655278242,444,Create User,200,OK,DB 2-159,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,444,0,206
+1688655278262,425,Create User,200,OK,DB 2-160,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,425,0,198
+1688655278444,243,Create Magazine,200,OK,DB 2-72,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,243,0,0
+1688655278475,218,Create Magazine,200,OK,DB 2-81,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,218,0,0
+1688655278235,460,Create User,200,OK,DB 2-158,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,460,0,214
+1688655278475,222,Create Magazine,200,OK,DB 2-77,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,222,0,0
+1688655278475,222,Create Magazine,200,OK,DB 2-80,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,222,0,0
+1688655277614,1090,Create User,200,OK,DB 2-60,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1090,0,211
+1688655278520,210,Create Magazine,200,OK,DB 2-90,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,210,0,0
+1688655277664,1071,Create User,200,OK,DB 2-68,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1071,0,209
+1688655278520,218,Create Magazine,200,OK,DB 2-85,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,218,0,0
+1688655277683,1057,Create User,200,OK,DB 2-71,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1057,0,204
+1688655278535,216,Create Magazine,200,OK,DB 2-92,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,216,0,0
+1688655277695,1072,Create User,200,OK,DB 2-73,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1072,0,209
+1688655277731,1036,Create User,200,OK,DB 2-76,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1036,0,198
+1688655277752,1016,Create User,200,OK,DB 2-82,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1016,0,200
+1688655277731,1038,Create User,200,OK,DB 2-78,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1038,0,202
+1688655277789,1010,Create User,200,OK,DB 2-88,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1010,0,196
+1688655278597,209,Create Subscription,200,OK,DB 2-12,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,209,0,0
+1688655278597,210,Create Subscription,200,OK,DB 2-8,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,210,0,0
+1688655277794,1037,Create User,200,OK,DB 2-89,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1037,0,199
+1688655277758,1075,Create User,200,OK,DB 2-83,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1075,0,211
+1688655277766,1069,Create User,200,OK,DB 2-84,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1069,0,211
+1688655278628,209,Create Subscription,200,OK,DB 2-2,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,209,0,0
+1688655277777,1062,Create User,200,OK,DB 2-86,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1062,0,205
+1688655278643,205,Create Subscription,200,OK,DB 2-14,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,205,0,0
+1688655278643,208,Create Subscription,200,OK,DB 2-9,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,208,0,0
+1688655278643,213,Create Subscription,200,OK,DB 2-5,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,213,0,0
+1688655277783,1080,Create User,200,OK,DB 2-87,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1080,0,209
+1688655277807,1057,Create User,200,OK,DB 2-91,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1057,0,207
+1688655278687,204,Create Subscription,200,OK,DB 2-17,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,204,0,0
+1688655278672,216,Create Subscription,200,OK,DB 2-3,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,216,0,0
+1688655278658,216,Create Magazine,200,OK,DB 2-96,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,216,0,0
+1688655278658,213,Create Subscription,200,OK,DB 2-6,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,213,0,0
+1688655278658,213,Create Subscription,200,OK,DB 2-10,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,213,0,0
+1688655278658,212,Create Subscription,200,OK,DB 2-7,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,212,0,0
+1688655278672,221,Create Subscription,200,OK,DB 2-1,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,221,0,0
+1688655278687,224,Create Subscription,200,OK,DB 2-11,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,224,0,0
+1688655278687,224,Create Subscription,200,OK,DB 2-16,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,224,0,0
+1688655278687,224,Create Magazine,200,OK,DB 2-97,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,224,0,0
+1688655278687,226,Create Magazine,200,OK,DB 2-94,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,226,0,0
+1688655278702,219,Create Subscription,200,OK,DB 2-13,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,219,0,0
+1688655278717,210,Create Magazine,200,OK,DB 2-103,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,210,0,0
+1688655278732,208,Create Magazine,200,OK,DB 2-109,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,208,0,0
+1688655278732,216,Create Subscription,200,OK,DB 2-18,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,216,0,0
+1688655278747,205,Create Subscription,200,OK,DB 2-24,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,205,0,0
+1688655277820,1146,Create User,200,OK,DB 2-93,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1146,0,206
+1688655278732,234,Create Magazine,200,OK,DB 2-101,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,234,0,0
+1688655278761,218,Create Magazine,200,OK,DB 2-113,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,218,0,0
+1688655278761,214,Create Magazine,200,OK,DB 2-116,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,214,0,0
+1688655278747,223,Create Magazine,200,OK,DB 2-110,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,223,0,0
+1688655278747,221,Create Subscription,200,OK,DB 2-21,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,221,0,0
+1688655278033,933,Create Magazine,200,OK,DB 2-4,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,933,0,0
+1688655278747,219,Create Subscription,200,OK,DB 2-22,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,219,0,0
+1688655278747,219,Create Subscription,200,OK,DB 2-25,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,219,0,0
+1688655278717,249,Create Magazine,200,OK,DB 2-98,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,249,0,0
+1688655278068,925,Create Magazine,200,OK,DB 2-19,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,925,0,0
+1688655278792,203,Create Subscription,200,OK,DB 2-29,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,203,0,0
+1688655277863,1133,Create User,200,OK,DB 2-100,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1133,0,201
+1688655278792,209,Create Magazine,200,OK,DB 2-120,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,209,0,0
+1688655278792,222,Create Magazine,200,OK,DB 2-115,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,222,0,0
+1688655278792,232,Create Magazine,200,OK,DB 2-114,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,232,0,0
+1688655278807,217,Create Subscription,200,OK,DB 2-34,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,217,0,0
+1688655278082,946,Create Magazine,200,OK,DB 2-20,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,946,0,0
+1688655278822,206,Create Subscription,200,OK,DB 2-39,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,206,0,0
+1688655278059,972,Create Magazine,200,OK,DB 2-15,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,972,0,0
+1688655278822,218,Create Magazine,200,OK,DB 2-122,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,218,0,0
+1688655278822,218,Create Magazine,200,OK,DB 2-123,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,218,0,0
+1688655278822,219,Create Subscription,200,OK,DB 2-31,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,219,0,0
+1688655278822,222,Create Subscription,200,OK,DB 2-32,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,222,0,0
+1688655278822,223,Create Magazine,200,OK,DB 2-121,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,223,0,0
+1688655278822,227,Create Subscription,200,OK,DB 2-27,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,227,0,0
+1688655278837,213,Create Subscription,200,OK,DB 2-40,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,213,0,0
+1688655278124,932,Create Magazine,200,OK,DB 2-26,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,932,0,0
+1688655278822,234,Create Magazine,200,OK,DB 2-119,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,234,0,0
+1688655278837,222,Create Subscription,200,OK,DB 2-33,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,222,0,0
+1688655278853,214,Create Magazine,200,OK,DB 2-126,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,214,0,0
+1688655278853,215,Create Magazine,200,OK,DB 2-127,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,215,0,0
+1688655278853,216,Create Subscription,200,OK,DB 2-41,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,216,0,0
+1688655278853,221,Create Magazine,200,OK,DB 2-124,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,221,0,0
+1688655278853,224,Create Subscription,200,OK,DB 2-35,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,224,0,0
+1688655278868,209,Create Subscription,200,OK,DB 2-45,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,209,0,0
+1688655278868,211,Create Magazine,200,OK,DB 2-131,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,211,0,0
+1688655278125,966,Create Magazine,200,OK,DB 2-23,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,966,0,0
+1688655278868,227,Create Magazine,200,OK,DB 2-125,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,227,0,0
+1688655278883,213,Create Subscription,200,OK,DB 2-44,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,213,0,0
+1688655278883,219,Create Subscription,200,OK,DB 2-43,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,219,0,0
+1688655278898,208,Create Subscription,200,OK,DB 2-52,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,208,0,0
+1688655278883,225,Create Magazine,200,OK,DB 2-130,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,225,0,0
+1688655278898,212,Create Subscription,200,OK,DB 2-53,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,212,0,0
+1688655278898,212,Create Magazine,200,OK,DB 2-136,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,212,0,0
+1688655278883,229,Create Magazine,200,OK,DB 2-129,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,229,0,0
+1688655278898,215,Create Subscription,200,OK,DB 2-51,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,215,0,0
+1688655278898,216,Create Subscription,200,OK,DB 2-47,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,216,0,0
+1688655278203,916,Create Magazine,200,OK,DB 2-37,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,916,0,0
+1688655278913,213,Create Subscription,200,OK,DB 2-49,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,213,0,0
+1688655278913,213,Create Magazine,200,OK,DB 2-140,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,213,0,0
+1688655278913,214,Create Magazine,200,OK,DB 2-138,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,214,0,0
+1688655278913,218,Create Subscription,200,OK,DB 2-50,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,218,0,0
+1688655278913,225,Create Magazine,200,OK,DB 2-134,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,225,0,0
+1688655278928,212,Create Magazine,200,OK,DB 2-144,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,212,0,0
+1688655278928,215,Create Subscription,200,OK,DB 2-54,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,215,0,0
+1688655278943,213,Create Subscription,200,OK,DB 2-57,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,213,0,0
+1688655278229,927,Create Magazine,200,OK,DB 2-42,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,927,0,0
+1688655278928,229,Create Magazine,200,OK,DB 2-139,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,229,0,0
+1688655278230,929,Create Magazine,200,OK,DB 2-38,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,929,0,0
+1688655278213,949,Create Magazine,200,OK,DB 2-36,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,949,0,0
+1688655278958,209,Create Subscription,200,OK,DB 2-67,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,209,0,0
+1688655278943,228,Create Magazine,200,OK,DB 2-143,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,228,0,0
+1688655278958,219,Create Subscription,200,OK,DB 2-66,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,219,0,0
+1688655278958,221,Create Magazine,200,OK,DB 2-151,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,221,0,0
+1688655278943,237,Create Magazine,200,OK,DB 2-141,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,237,0,0
+1688655278079,1108,Create User,200,OK,DB 2-133,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1108,0,199
+1688655278201,987,Create Magazine,200,OK,DB 2-30,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,987,0,0
+1688655278262,930,Create Magazine,200,OK,DB 2-46,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,930,0,0
+1688655278958,238,Create Magazine,200,OK,DB 2-148,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,238,0,0
+1688655278973,228,Create Magazine,200,OK,DB 2-155,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,228,0,0
+1688655278973,231,Create Magazine,200,OK,DB 2-153,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,231,0,0
+1688655278973,233,Create Subscription,200,OK,DB 2-65,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,233,0,0
+1688655278973,239,Create Subscription,200,OK,DB 2-70,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,239,0,0
+1688655278277,938,Create Magazine,200,OK,DB 2-48,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,938,0,0
+1688655278073,1142,Create User,200,OK,DB 2-132,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1142,0,206
+1688655278973,252,Create Magazine,200,OK,DB 2-152,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,252,0,0
+1688655278049,1176,Create User,200,OK,DB 2-128,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1176,0,217
+1688655279003,223,Create Subscription,200,OK,DB 2-77,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,223,0,0
+1688655278988,240,Create Magazine,200,OK,DB 2-159,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,240,0,0
+1688655278973,255,Create Magazine,200,OK,DB 2-150,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,255,0,0
+1688655279033,206,Create Subscription,200,OK,DB 2-90,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,206,0,0
+1688655279003,237,Create Magazine,200,OK,DB 2-158,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,237,0,0
+1688655278164,1085,Create User,200,OK,DB 2-147,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1085,0,198
+1688655277832,1418,Create User,200,OK,DB 2-95,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1418,0,1205
+1688655278178,1073,Create User,200,OK,DB 2-149,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1073,0,200
+1688655278353,900,Create Magazine,200,OK,DB 2-62,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,900,0,0
+1688655279048,220,Create Magazine,200,OK,DB 2-71,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,220,0,0
+1688655279048,223,Create Magazine,200,OK,DB 2-68,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,223,0,0
+1688655279063,209,Create Subscription,200,OK,DB 2-92,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,209,0,0
+1688655277633,1650,Create User,200,OK,DB 2-63,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1650,0,200
+1688655278229,1056,Create User,200,OK,DB 2-157,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1056,0,201
+1688655278223,1088,Create User,200,OK,DB 2-156,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1088,0,206
+1688655278211,1104,Create User,200,OK,DB 2-154,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1104,0,210
+1688655278429,887,Create Magazine,200,OK,DB 2-75,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,887,0,0
+1688655278368,948,Create Magazine,200,OK,DB 2-58,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,948,0,0
+1688655277620,1697,Create User,200,OK,DB 2-61,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1697,0,205
+1688655277875,1442,Create User,200,OK,DB 2-102,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1442,0,1208
+1688655279078,239,Create Magazine,200,OK,DB 2-76,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,239,0,0
+1688655279078,242,Create Magazine,200,OK,DB 2-82,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,242,0,0
+1688655278414,907,Create Magazine,200,OK,DB 2-69,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,907,0,0
+1688655279078,247,Create Magazine,200,OK,DB 2-78,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,247,0,0
+1688655277857,1470,Create User,200,OK,DB 2-99,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1470,0,1218
+1688655279125,204,"Get Subscriptions ""/""",200,OK,DB 2-8,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,204,0,0
+1688655279078,252,Create Magazine,200,OK,DB 2-73,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,252,0,0
+1688655277887,1445,Create User,200,OK,DB 2-104,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1445,0,1200
+1688655279109,227,Create Magazine,200,OK,DB 2-88,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,227,0,0
+1688655279139,204,"Get Subscriptions ""/""",200,OK,DB 2-2,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,204,0,0
+1688655278475,869,Create Magazine,200,OK,DB 2-79,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,869,0,0
+1688655277639,1708,Create User,200,OK,DB 2-64,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1708,0,210
+1688655279154,208,"Get Subscriptions ""/""",200,OK,DB 2-14,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,208,0,0
+1688655279139,223,Create Magazine,200,OK,DB 2-89,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,223,0,0
+1688655277899,1466,Create User,200,OK,DB 2-106,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1466,0,1220
+1688655279154,214,"Get Subscriptions ""/""",200,OK,DB 2-9,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,214,0,0
+1688655279139,236,Create Magazine,200,OK,DB 2-86,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,236,0,0
+1688655279169,209,"Get Subscriptions ""/""",200,OK,DB 2-5,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,209,0,0
+1688655277608,1771,Create User,200,OK,DB 2-59,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1771,0,217
+1688655279215,203,"Get Subscriptions ""/""",200,OK,DB 2-16,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,203,0,0
+1688655279199,213,"Get Subscriptions ""/""",200,OK,DB 2-1,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,213,0,0
+1688655279199,209,"Get Subscriptions ""/""",200,OK,DB 2-3,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,209,0,0
+1688655279199,209,Create Subscription,200,OK,DB 2-96,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,209,0,0
+1688655277976,1432,Create User,200,OK,DB 2-118,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1432,0,1212
+1688655279199,209,"Get Subscriptions ""/""",200,OK,DB 2-10,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,209,0,0
+1688655279199,208,"Get Subscriptions ""/""",200,OK,DB 2-6,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,208,0,0
+1688655279199,208,"Get Subscriptions ""/""",200,OK,DB 2-7,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,208,0,0
+1688655277970,1433,Create User,200,OK,DB 2-117,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1433,0,1209
+1688655277931,1468,Create User,200,OK,DB 2-111,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1468,0,1223
+1688655279169,230,Create Magazine,200,OK,DB 2-91,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,230,0,0
+1688655279199,199,"Get Subscriptions ""/""",200,OK,DB 2-17,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,199,0,0
+1688655279169,227,Create Magazine,200,OK,DB 2-87,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,227,0,0
+1688655277905,1489,Create User,200,OK,DB 2-107,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1489,0,1224
+1688655279139,253,Create Magazine,200,OK,DB 2-84,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,253,0,0
+1688655279139,249,Create Magazine,200,OK,DB 2-83,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,249,0,0
+1688655279215,214,Create Subscription,200,OK,DB 2-97,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,214,0,0
+1688655279215,214,"Get Subscriptions ""/""",200,OK,DB 2-11,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,214,0,0
+1688655279215,219,Create Subscription,200,OK,DB 2-94,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,219,0,0
+1688655279230,206,Create Subscription,200,OK,DB 2-103,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,206,0,0
+1688655279230,213,"Get Subscriptions ""/""",200,OK,DB 2-13,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,213,0,0
+1688655279245,204,Create Subscription,200,OK,DB 2-109,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,204,0,0
+1688655279259,200,"Get Subscriptions ""/""",200,OK,DB 2-24,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,200,0,0
+1688655279259,212,"Get Subscriptions ""/""",200,OK,DB 2-18,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,212,0,0
+1688655279275,221,Create Magazine,200,OK,DB 2-93,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,221,0,0
+1688655279305,199,"Get Subscriptions ""/""",200,OK,DB 2-29,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,199,0,0
+1688655279305,206,Create Subscription,200,OK,DB 2-120,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,206,0,0
+1688655279305,211,Create Subscription,200,OK,DB 2-19,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,211,0,0
+1688655279305,214,Create Subscription,200,OK,DB 2-4,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,214,0,0
+1688655279305,215,Create Subscription,200,OK,DB 2-110,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,215,0,0
+1688655279305,215,Create Subscription,200,OK,DB 2-113,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,215,0,0
+1688655279305,216,"Get Subscriptions ""/""",200,OK,DB 2-21,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,216,0,0
+1688655279305,220,Create Magazine,200,OK,DB 2-100,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,220,0,0
+1688655279305,221,Create Subscription,200,OK,DB 2-101,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,221,0,0
+1688655279305,222,Create Subscription,200,OK,DB 2-98,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,222,0,0
+1688655279335,199,"Get Subscriptions ""/""",200,OK,DB 2-39,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,199,0,0
+1688655279320,216,Create Subscription,200,OK,DB 2-115,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,216,0,0
+1688655279335,208,Create Subscription,200,OK,DB 2-20,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,208,0,0
+1688655279335,212,Create Subscription,200,OK,DB 2-15,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,212,0,0
+1688655279351,213,Create Subscription,200,OK,DB 2-121,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,213,0,0
+1688655279351,217,"Get Subscriptions ""/""",200,OK,DB 2-27,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,217,0,0
+1688655279351,217,"Get Subscriptions ""/""",200,OK,DB 2-32,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,217,0,0
+1688655279367,203,Create Subscription,200,OK,DB 2-26,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,203,0,0
+1688655278732,839,Create Magazine,200,OK,DB 2-105,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,839,0,0
+1688655278732,842,Create Magazine,200,OK,DB 2-108,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,842,0,0
+1688655279382,210,"Get Subscriptions ""/""",200,OK,DB 2-41,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,210,0,0
+1688655278157,1435,Create User,200,OK,DB 2-146,text,true,,250,413,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,1435,0,1213
+1688655279382,212,Create Subscription,200,OK,DB 2-131,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,212,0,0
+1688655279382,213,Create Subscription,200,OK,DB 2-126,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,213,0,0
+1688655279382,216,Create Subscription,200,OK,DB 2-127,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,216,0,0
+1688655279382,217,Create Subscription,200,OK,DB 2-124,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,217,0,0
+1688655279382,219,"Get Subscriptions ""/""",200,OK,DB 2-35,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,219,0,0
+1688655279397,208,"Get Subscriptions ""/""",200,OK,DB 2-44,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,208,0,0
+1688655279412,202,"Get Subscriptions ""/""",200,OK,DB 2-52,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,202,0,0
+1688655279412,203,Create Subscription,200,OK,DB 2-136,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,203,0,0
+1688655279412,204,"Get Subscriptions ""/""",200,OK,DB 2-53,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,204,0,0
+1688655279412,213,"Get Subscriptions ""/""",200,OK,DB 2-43,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,213,0,0
+1688655279412,218,Create Subscription,200,OK,DB 2-130,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,218,0,0
+1688655279412,218,Create Subscription,200,OK,DB 2-129,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,218,0,0
+1688655279427,204,Create Subscription,200,OK,DB 2-37,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,204,0,0
+1688655279427,209,"Get Subscriptions ""/""",200,OK,DB 2-49,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,209,0,0
+1688655279427,209,Create Subscription,200,OK,DB 2-140,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,209,0,0
+1688655279427,210,"Get Subscriptions ""/""",200,OK,DB 2-51,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,210,0,0
+1688655279427,210,Create Subscription,200,OK,DB 2-138,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,210,0,0
+1688655279442,206,Create Subscription,200,OK,DB 2-144,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,206,0,0
+1688655279442,214,"Get Subscriptions ""/""",200,OK,DB 2-50,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,214,0,0
+1688655279442,219,Create Subscription,200,OK,DB 2-134,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,219,0,0
+1688655279457,207,Create Subscription,200,OK,DB 2-42,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,207,0,0
+1688655279457,207,"Get Subscriptions ""/""",200,OK,DB 2-57,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,207,0,0
+1688655279457,208,"Get Subscriptions ""/""",200,OK,DB 2-54,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,208,0,0
+1688655279457,218,Create Subscription,200,OK,DB 2-139,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,218,0,0
+1688655279472,213,Create Subscription,200,OK,DB 2-38,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,213,0,0
+1688655279472,214,"Get Subscriptions ""/""",200,OK,DB 2-67,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,214,0,0
+1688655279472,214,Create Subscription,200,OK,DB 2-36,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,214,0,0
+1688655279487,208,"Get Subscriptions ""/""",200,OK,DB 2-66,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,208,0,0
+1688655279487,214,Create Magazine,200,OK,DB 2-133,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,214,0,0
+1688655279487,222,Create Subscription,200,OK,DB 2-141,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,222,0,0
+1688655279502,227,Create Subscription,200,OK,DB 2-46,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,227,0,0
+1688655279502,240,Create Subscription,200,OK,DB 2-148,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,240,0,0
+1688655279518,224,Create Subscription,200,OK,DB 2-153,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,224,0,0
+1688655279518,224,"Get Subscriptions ""/""",200,OK,DB 2-70,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,224,0,0
+1688655279518,224,Create Subscription,200,OK,DB 2-48,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,224,0,0
+1688655279518,224,"Get Subscriptions ""/""",200,OK,DB 2-65,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,224,0,0
+1688655278822,920,Create Subscription,200,OK,DB 2-28,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,920,0,0
+1688655279518,224,Create Magazine,200,OK,DB 2-132,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,224,0,0
+1688655279533,210,"Get Subscriptions ""/""",200,OK,DB 2-77,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,210,0,0
+1688655279533,213,Create Subscription,200,OK,DB 2-159,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,213,0,0
+1688655279548,199,"Get Subscriptions ""/""",200,OK,DB 2-90,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,199,0,0
+1688655279533,219,Create Subscription,200,OK,DB 2-152,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,219,0,0
+1688655279533,221,Create Subscription,200,OK,DB 2-150,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,221,0,0
+1688655278928,833,Create Subscription,200,OK,DB 2-56,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,833,0,0
+1688655278928,833,Create Subscription,200,OK,DB 2-55,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,833,0,0
+1688655279533,232,Create Magazine,200,OK,DB 2-128,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,232,0,0
+1688655279548,226,Create Subscription,200,OK,DB 2-158,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,226,0,0
+1688655279563,212,Create Subscription,200,OK,DB 2-62,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,212,0,0
+1688655279563,216,Create Magazine,200,OK,DB 2-147,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,216,0,0
+1688655279563,216,Create Magazine,200,OK,DB 2-149,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,216,0,0
+1688655279563,218,Create Magazine,200,OK,DB 2-95,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,218,0,0
+1688655279578,204,"Get Subscriptions ""/""",200,OK,DB 2-92,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,204,0,0
+1688655279578,207,Create Subscription,200,OK,DB 2-71,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,207,0,0
+1688655279578,215,Create Subscription,200,OK,DB 2-68,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,215,0,0
+1688655278913,883,Create Magazine,200,OK,DB 2-135,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,883,0,0
+1688655278928,869,Create Magazine,200,OK,DB 2-137,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,869,0,0
+1688655279594,214,Create Magazine,200,OK,DB 2-63,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,214,0,0
+1688655279594,215,Create Magazine,200,OK,DB 2-157,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,215,0,0
+1688655279003,821,Create Subscription,200,OK,DB 2-81,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,821,0,0
+1688655279003,827,Create Subscription,200,OK,DB 2-80,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,827,0,0
+1688655279624,206,Create Subscription,200,OK,DB 2-76,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,206,0,0
+1688655279624,209,Create Subscription,200,OK,DB 2-82,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,209,0,0
+1688655279624,214,Create Subscription,200,OK,DB 2-75,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,214,0,0
+1688655279624,215,Create Subscription,200,OK,DB 2-69,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,215,0,0
+1688655279624,220,Create Subscription,200,OK,DB 2-58,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,220,0,0
+1688655279624,224,Create Magazine,200,OK,DB 2-102,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,224,0,0
+1688655279624,225,Create Magazine,200,OK,DB 2-61,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,225,0,0
+1688655279639,210,Create Subscription,200,OK,DB 2-78,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,210,0,0
+1688655279624,228,Create Magazine,200,OK,DB 2-156,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,228,0,0
+1688655279639,215,Create Subscription,200,OK,DB 2-73,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,215,0,0
+1688655278988,867,Create Subscription,200,OK,DB 2-74,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,867,0,0
+1688655279639,216,Create Magazine,200,OK,DB 2-104,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,216,0,0
+1688655278988,869,Create Magazine,200,OK,DB 2-160,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,869,0,0
+1688655279624,233,Create Magazine,200,OK,DB 2-154,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,233,0,0
+1688655278988,872,Create Subscription,200,OK,DB 2-72,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,872,0,0
+1688655279639,222,Create Magazine,200,OK,DB 2-99,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,222,0,0
+1688655279654,214,Create Subscription,200,OK,DB 2-79,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,214,0,0
+1688655279668,203,Create Subscription,200,OK,DB 2-89,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,203,0,0
+1688655279654,224,Create Magazine,200,OK,DB 2-64,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,224,0,0
+1688655279109,784,"Get Subscriptions ""/""",200,OK,DB 2-12,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,784,0,0
+1688655279759,198,"Get Subscriptions ""/""",200,OK,DB 2-109,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,198,0,0
+1688655279729,228,Create Magazine,200,OK,DB 2-117,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,228,0,0
+1688655279744,212,"Get Subscriptions ""/""",200,OK,DB 2-97,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,212,0,0
+1688655279729,226,Create Magazine,200,OK,DB 2-118,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,226,0,0
+1688655279729,225,Create Subscription,200,OK,DB 2-84,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,225,0,0
+1688655279729,221,Create Subscription,200,OK,DB 2-87,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,221,0,0
+1688655279729,217,Create Subscription,200,OK,DB 2-83,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,217,0,0
+1688655279729,205,"Get Subscriptions ""/""",200,OK,DB 2-96,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,205,0,0
+1688655279683,223,Create Magazine,200,OK,DB 2-59,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,223,0,0
+1688655279003,892,Create Magazine,200,OK,DB 2-60,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,892,0,0
+1688655279729,233,Create Magazine,200,OK,DB 2-111,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,233,0,0
+1688655279729,246,Create Magazine,200,OK,DB 2-107,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,246,0,0
+1688655279804,214,Create Subscription,200,OK,DB 2-93,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,214,0,0
+1688655279820,204,"Get Subscriptions ""/""",200,OK,DB 2-4,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,204,0,0
+1688655279820,208,"Get Subscriptions ""/""",200,OK,DB 2-110,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,208,0,0
+1688655279835,207,"Get Subscriptions ""/""",200,OK,DB 2-113,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,207,0,0
+1688655279835,209,Create Subscription,200,OK,DB 2-100,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,209,0,0
+1688655279850,215,"Get Subscriptions ""/""",200,OK,DB 2-115,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,215,0,0
+1688655279835,232,"Get Subscriptions ""/""",200,OK,DB 2-101,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,232,0,0
+1688655279865,208,"Get Subscriptions ""/""",200,OK,DB 2-121,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,208,0,0
+1688655279880,198,"Get Subscriptions ""/""",200,OK,DB 2-26,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,198,0,0
+1688655279880,204,Create Subscription,200,OK,DB 2-105,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,204,0,0
+1688655279880,207,Create Subscription,200,OK,DB 2-108,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,207,0,0
+1688655279895,203,"Get Subscriptions ""/""",200,OK,DB 2-131,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,203,0,0
+1688655279895,215,Create Magazine,200,OK,DB 2-146,text,true,,255,353,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,215,0,0
+1688655279305,806,"Get Subscriptions ""/""",200,OK,DB 2-25,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,806,0,0
+1688655279910,202,"Get Subscriptions ""/""",200,OK,DB 2-126,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,202,0,0
+1688655279305,808,Create Subscription,200,OK,DB 2-116,text,true,,259,440,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,808,0,0
+1688655279910,204,"Get Subscriptions ""/""",200,OK,DB 2-127,text,true,,720,152,160,520,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,204,0,0
+1688655279940,204,"Get Subscriptions ""/""",200,OK,DB 2-138,text,true,,720,152,160,519,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,204,0,0
+1688655279335,810,"Get Subscriptions ""/""",200,OK,DB 2-34,text,true,,720,152,160,519,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,810,0,0
+1688655279351,804,"Get Subscriptions ""/""",200,OK,DB 2-40,text,true,,720,152,160,517,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,804,0,0
+1688655279955,201,"Get Subscriptions ""/""",200,OK,DB 2-144,text,true,,720,152,160,517,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,201,0,0
+1688655279970,203,"Get Subscriptions ""/""",200,OK,DB 2-42,text,true,,720,152,160,514,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,203,0,0
+1688655279351,824,"Get Subscriptions ""/""",200,OK,DB 2-31,text,true,,720,152,160,514,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,824,0,0
+1688655279351,829,Create Subscription,200,OK,DB 2-122,text,true,,259,440,160,514,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,829,0,0
+1688655279351,829,Create Subscription,200,OK,DB 2-123,text,true,,259,440,160,514,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,829,0,0
+1688655279985,213,"Get Subscriptions ""/""",200,OK,DB 2-139,text,true,,720,152,160,514,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,213,0,0
+1688655280000,207,"Get Subscriptions ""/""",200,OK,DB 2-38,text,true,,720,152,160,513,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,207,0,0
+1688655280001,209,"Get Subscriptions ""/""",200,OK,DB 2-36,text,true,,720,152,160,513,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,209,0,0
+1688655279335,883,Create Subscription,200,OK,DB 2-114,text,true,,259,440,160,513,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,883,0,0
+1688655279367,851,"Get Subscriptions ""/""",200,OK,DB 2-33,text,true,,720,152,160,513,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,851,0,0
+1688655280016,208,Create Subscription,200,OK,DB 2-133,text,true,,259,440,160,513,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,208,0,0
+1688655280032,206,"Get Subscriptions ""/""",200,OK,DB 2-46,text,true,,720,152,160,512,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,206,0,0
+1688655279367,873,Create Subscription,200,OK,DB 2-119,text,true,,259,440,160,511,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,873,0,0
+1688655279427,820,"Get Subscriptions ""/""",200,OK,DB 2-47,text,true,,720,152,160,511,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,820,0,0
+1688655280046,206,"Get Subscriptions ""/""",200,OK,DB 2-153,text,true,,720,152,160,511,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,206,0,0
+1688655280046,208,"Get Subscriptions ""/""",200,OK,DB 2-28,text,true,,720,152,160,511,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,208,0,0
+1688655280046,213,Create Subscription,200,OK,DB 2-132,text,true,,259,440,160,509,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,213,0,0
+1688655280046,224,"Get Subscriptions ""/""",200,OK,DB 2-48,text,true,,720,152,160,509,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,224,0,0
+1688655280061,219,"Get Subscriptions ""/""",200,OK,DB 2-152,text,true,,720,152,160,509,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,219,0,0
+1688655280061,219,"Get Subscriptions ""/""",200,OK,DB 2-150,text,true,,720,152,160,509,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,219,0,0
+1688655279397,882,Create Subscription,200,OK,DB 2-125,text,true,,259,440,160,509,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,882,0,0
+1688655280076,217,"Get Subscriptions ""/""",200,OK,DB 2-158,text,true,,720,152,160,509,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,217,0,0
+1688655280091,203,"Get Subscriptions ""/""",200,OK,DB 2-71,text,true,,720,152,160,509,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,203,0,0
+1688655280076,224,Create Subscription,200,OK,DB 2-128,text,true,,259,440,160,509,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,224,0,0
+1688655280091,210,Create Subscription,200,OK,DB 2-149,text,true,,259,440,160,509,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,210,0,0
+1688655280091,211,Create Subscription,200,OK,DB 2-95,text,true,,259,440,160,509,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,211,0,0
+1688655279487,816,Create Subscription,200,OK,DB 2-151,text,true,,259,440,160,508,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,816,0,0
+1688655279502,805,Create Subscription,200,OK,DB 2-155,text,true,,259,440,160,508,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,805,0,0
+1688655280106,209,"Get Subscriptions ""/""",200,OK,DB 2-68,text,true,,720,152,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,209,0,0
+1688655280106,223,Create Subscription,200,OK,DB 2-137,text,true,,259,440,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,223,0,0
+1688655280122,208,Create Subscription,200,OK,DB 2-63,text,true,,259,440,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,208,0,0
+1688655280122,209,Create Subscription,200,OK,DB 2-157,text,true,,259,440,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,209,0,0
+1688655280137,198,"Get Subscriptions ""/""",200,OK,DB 2-82,text,true,,720,152,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,198,0,0
+1688655280137,199,"Get Subscriptions ""/""",200,OK,DB 2-76,text,true,,720,152,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,199,0,0
+1688655280137,199,"Get Subscriptions ""/""",200,OK,DB 2-81,text,true,,720,152,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,199,0,0
+1688655280137,205,"Get Subscriptions ""/""",200,OK,DB 2-80,text,true,,720,152,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,205,0,0
+1688655279472,869,Create Subscription,200,OK,DB 2-143,text,true,,259,440,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,869,0,0
+1688655280152,209,"Get Subscriptions ""/""",200,OK,DB 2-69,text,true,,720,152,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,209,0,0
+1688655280152,210,Create Subscription,200,OK,DB 2-61,text,true,,259,440,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,210,0,0
+1688655280152,214,"Get Subscriptions ""/""",200,OK,DB 2-58,text,true,,720,152,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,214,0,0
+1688655280167,203,Create Subscription,200,OK,DB 2-104,text,true,,259,440,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,203,0,0
+1688655280167,205,Create Subscription,200,OK,DB 2-160,text,true,,259,440,160,507,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,205,0,0
+1688655280167,213,"Get Subscriptions ""/""",200,OK,DB 2-72,text,true,,720,152,160,506,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,213,0,0
+1688655280182,199,"Get Subscriptions ""/""",200,OK,DB 2-89,text,true,,720,152,160,506,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,199,0,0
+1688655280167,216,Create Subscription,200,OK,DB 2-99,text,true,,259,440,160,506,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,216,0,0
+1688655280167,216,Create Subscription,200,OK,DB 2-156,text,true,,259,440,160,506,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,216,0,0
+1688655280167,219,Create Subscription,200,OK,DB 2-154,text,true,,259,440,160,506,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,219,0,0
+1688655280182,209,"Get Subscriptions ""/""",200,OK,DB 2-79,text,true,,720,152,160,506,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,209,0,0
+1688655280182,217,Create Subscription,200,OK,DB 2-64,text,true,,259,440,160,505,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,217,0,0
+1688655277937,2466,Create User,200,OK,DB 2-112,text,true,,250,413,160,505,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,2466,0,1206
+1688655280273,208,Create Subscription,200,OK,DB 2-118,text,true,,259,440,160,500,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,208,0,0
+1688655279639,828,Create Subscription,200,OK,DB 2-88,text,true,,259,440,160,501,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,828,0,0
+1688655279502,910,Create Subscription,200,OK,DB 2-30,text,true,,259,440,160,505,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,910,0,0
+1688655280273,211,"Get Subscriptions ""/""",200,OK,DB 2-83,text,true,,720,152,160,500,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,211,0,0
+1688655280273,213,"Get Subscriptions ""/""",200,OK,DB 2-84,text,true,,720,152,160,500,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,213,0,0
+1688655280273,223,Create Subscription,200,OK,DB 2-111,text,true,,259,440,160,500,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,223,0,0
+1688655280288,224,Create Subscription,200,OK,DB 2-107,text,true,,259,440,160,500,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,224,0,0
+1688655279048,1479,Create Subscription,200,OK,DB 2-85,text,true,,259,440,160,498,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,1479,0,0
+1688655279744,785,"Get Subscriptions ""/""",200,OK,DB 2-103,text,true,,720,152,160,498,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,785,0,0
+1688655279683,852,Create Subscription,200,OK,DB 2-86,text,true,,259,440,160,497,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,852,0,0
+1688655280334,208,"Get Subscriptions ""/""",200,OK,DB 2-93,text,true,,720,152,160,497,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,208,0,0
+1688655279744,820,"Get Subscriptions ""/""",200,OK,DB 2-94,text,true,,720,152,160,497,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,820,0,0
+1688655279820,775,"Get Subscriptions ""/""",200,OK,DB 2-120,text,true,,720,152,160,496,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,775,0,0
+1688655278151,2445,Create User,200,OK,DB 2-145,text,true,,250,413,160,496,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,2445,0,1209
+1688655279729,867,Create Subscription,200,OK,DB 2-91,text,true,,259,440,160,496,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,867,0,0
+1688655279668,955,Create Magazine,200,OK,DB 2-106,text,true,,255,353,160,495,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,955,0,0
+1688655279820,804,"Get Subscriptions ""/""",200,OK,DB 2-19,text,true,,720,152,160,495,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,804,0,0
+1688655280484,204,"Get Subscriptions ""/""",200,OK,DB 2-122,text,true,,720,152,160,493,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,204,0,0
+1688655279925,762,"Get Subscriptions ""/""",200,OK,DB 2-136,text,true,,720,152,160,493,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,762,0,0
+1688655280484,206,"Get Subscriptions ""/""",200,OK,DB 2-123,text,true,,720,152,160,493,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,206,0,0
+1688655279940,779,"Get Subscriptions ""/""",200,OK,DB 2-37,text,true,,720,152,160,491,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,779,0,0
+1688655279910,809,"Get Subscriptions ""/""",200,OK,DB 2-124,text,true,,720,152,160,491,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,809,0,0
+1688655279940,783,"Get Subscriptions ""/""",200,OK,DB 2-140,text,true,,720,152,160,491,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,783,0,0
+1688655279305,1422,"Get Subscriptions ""/""",200,OK,DB 2-22,text,true,,720,152,160,491,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,1422,0,0
+1688655280530,202,"Get Subscriptions ""/""",200,OK,DB 2-133,text,true,,720,152,160,490,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,202,0,0
+1688655280530,221,"Get Subscriptions ""/""",200,OK,DB 2-114,text,true,,720,152,160,489,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,221,0,0
+1688655280545,208,"Get Subscriptions ""/""",200,OK,DB 2-119,text,true,,720,152,160,489,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,208,0,0
+1688655279970,822,"Get Subscriptions ""/""",200,OK,DB 2-134,text,true,,720,152,160,487,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,822,0,0
+1688655280590,217,"Get Subscriptions ""/""",200,OK,DB 2-125,text,true,,720,152,160,486,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,217,0,0
+1688655280605,205,"Get Subscriptions ""/""",200,OK,DB 2-149,text,true,,720,152,160,486,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,205,0,0
+1688655280605,207,"Get Subscriptions ""/""",200,OK,DB 2-95,text,true,,720,152,160,486,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,207,0,0
+1688655280620,203,"Get Subscriptions ""/""",200,OK,DB 2-155,text,true,,720,152,160,485,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,203,0,0
+1688655280635,206,"Get Subscriptions ""/""",200,OK,DB 2-157,text,true,,720,152,160,484,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,206,0,0
+1688655280635,214,"Get Subscriptions ""/""",200,OK,DB 2-137,text,true,,720,152,160,483,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,214,0,0
+1688655280650,213,"Get Subscriptions ""/""",200,OK,DB 2-143,text,true,,720,152,160,483,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,213,0,0
+1688655280680,198,"Get Subscriptions ""/""",200,OK,DB 2-104,text,true,,720,152,160,483,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,198,0,0
+1688655280680,200,"Get Subscriptions ""/""",200,OK,DB 2-160,text,true,,720,152,160,483,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,200,0,0
+1688655280061,820,"Get Subscriptions ""/""",200,OK,DB 2-159,text,true,,720,152,160,483,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,820,0,0
+1688655280046,839,"Get Subscriptions ""/""",200,OK,DB 2-148,text,true,,720,152,160,483,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,839,0,0
+1688655280076,810,"Get Subscriptions ""/""",200,OK,DB 2-62,text,true,,720,152,160,483,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,810,0,0
+1688655280695,209,"Get Subscriptions ""/""",200,OK,DB 2-156,text,true,,720,152,160,480,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,209,0,0
+1688655280695,210,"Get Subscriptions ""/""",200,OK,DB 2-99,text,true,,720,152,160,480,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,210,0,0
+1688655280695,212,"Get Subscriptions ""/""",200,OK,DB 2-154,text,true,,720,152,160,480,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,212,0,0
+1688655280091,823,Create Subscription,200,OK,DB 2-147,text,true,,259,440,160,480,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,823,0,0
+1688655280076,846,"Get Subscriptions ""/""",200,OK,DB 2-56,text,true,,720,152,160,480,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,846,0,0
+1688655280710,212,"Get Subscriptions ""/""",200,OK,DB 2-64,text,true,,720,152,160,480,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,212,0,0
+1688655280076,846,"Get Subscriptions ""/""",200,OK,DB 2-55,text,true,,720,152,160,480,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,846,0,0
+1688655280106,883,Create Subscription,200,OK,DB 2-135,text,true,,259,440,160,477,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,883,0,0
+1688655280784,203,"Get Subscriptions ""/""",200,OK,DB 2-30,text,true,,720,152,160,477,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,203,0,0
+1688655280152,797,"Get Subscriptions ""/""",200,OK,DB 2-75,text,true,,720,152,160,478,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,797,0,0
+1688655280152,794,"Get Subscriptions ""/""",200,OK,DB 2-78,text,true,,720,152,160,479,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,794,0,0
+1688655280710,215,Create Magazine,200,OK,DB 2-112,text,true,,255,353,160,480,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,215,0,0
+1688655280167,841,"Get Subscriptions ""/""",200,OK,DB 2-73,text,true,,720,152,160,477,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,841,0,0
+1688655280784,225,"Get Subscriptions ""/""",200,OK,DB 2-118,text,true,,720,152,160,477,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,225,0,0
+1688655280167,849,"Get Subscriptions ""/""",200,OK,DB 2-74,text,true,,720,152,160,477,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,849,0,0
+1688655280815,219,"Get Subscriptions ""/""",200,OK,DB 2-107,text,true,,720,152,160,477,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,219,0,0
+1688655280830,209,"Get Subscriptions ""/""",200,OK,DB 2-85,text,true,,720,152,160,477,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,209,0,0
+1688655280152,924,Create Subscription,200,OK,DB 2-102,text,true,,259,440,160,477,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,924,0,0
+1688655280906,221,Create Magazine,200,OK,DB 2-145,text,true,,255,353,160,476,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,221,0,0
+1688655280273,868,Create Subscription,200,OK,DB 2-59,text,true,,259,440,160,476,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,868,0,0
+1688655280349,792,"Get Subscriptions ""/""",200,OK,DB 2-100,text,true,,720,152,160,476,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,792,0,0
+1688655278133,3012,Create User,200,OK,DB 2-142,text,true,,250,413,160,476,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_user,3012,0,207
+1688655280937,214,Create Subscription,200,OK,DB 2-106,text,true,,259,440,160,476,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,214,0,0
+1688655280394,774,"Get Subscriptions ""/""",200,OK,DB 2-105,text,true,,720,152,160,476,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,774,0,0
+1688655280394,810,"Get Subscriptions ""/""",200,OK,DB 2-108,text,true,,720,152,160,476,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,810,0,0
+1688655280273,960,Create Subscription,200,OK,DB 2-117,text,true,,259,440,160,476,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,960,0,0
+1688655280424,818,"Get Subscriptions ""/""",200,OK,DB 2-116,text,true,,720,152,160,476,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,818,0,0
+1688655279850,1419,"Get Subscriptions ""/""",200,OK,DB 2-20,text,true,,720,152,160,475,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,1419,0,0
+1688655279850,1458,"Get Subscriptions ""/""",200,OK,DB 2-15,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,1458,0,0
+1688655280424,909,Create Subscription,200,OK,DB 2-146,text,true,,259,440,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,909,0,0
+1688655279940,1424,"Get Subscriptions ""/""",200,OK,DB 2-129,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,1424,0,0
+1688655280560,836,"Get Subscriptions ""/""",200,OK,DB 2-132,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,836,0,0
+1688655280665,833,"Get Subscriptions ""/""",200,OK,DB 2-61,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,833,0,0
+1688655280016,1450,"Get Subscriptions ""/""",200,OK,DB 2-141,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,1450,0,0
+1688655280605,861,"Get Subscriptions ""/""",200,OK,DB 2-128,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,861,0,0
+1688655281227,209,"Get Subscriptions ""/""",200,OK,DB 2-147,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,209,0,0
+1688655281302,208,Create Subscription,200,OK,DB 2-112,text,true,,259,440,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,208,0,0
+1688655281302,214,"Get Subscriptions ""/""",200,OK,DB 2-135,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,214,0,0
+1688655281378,202,"Get Subscriptions ""/""",200,OK,DB 2-102,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,202,0,0
+1688655279397,2190,Create Subscription,200,OK,DB 2-23,text,true,,259,440,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,2190,0,0
+1688655280784,809,"Get Subscriptions ""/""",200,OK,DB 2-88,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,809,0,0
+1688655281438,214,Create Subscription,200,OK,DB 2-145,text,true,,259,440,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,214,0,0
+1688655281453,209,"Get Subscriptions ""/""",200,OK,DB 2-106,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,209,0,0
+1688655281453,213,"Get Subscriptions ""/""",200,OK,DB 2-59,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,213,0,0
+1688655281453,221,Create Magazine,200,OK,DB 2-142,text,true,,255,353,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_magazine,221,0,0
+1688655280846,850,"Get Subscriptions ""/""",200,OK,DB 2-86,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,850,0,0
+1688655280273,1471,"Get Subscriptions ""/""",200,OK,DB 2-87,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,1471,0,0
+1688655280799,950,"Get Subscriptions ""/""",200,OK,DB 2-111,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,950,0,0
+1688655280906,848,"Get Subscriptions ""/""",200,OK,DB 2-91,text,true,,720,152,160,474,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,848,0,0
+1688655281634,204,"Get Subscriptions ""/""",200,OK,DB 2-146,text,true,,720,152,160,472,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,204,0,0
+1688655279382,2526,"Get Subscriptions ""/""",200,OK,DB 2-45,text,true,,720,152,160,472,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,2526,0,0
+1688655280635,1405,"Get Subscriptions ""/""",200,OK,DB 2-63,text,true,,720,152,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,1405,0,0
+1688655281891,230,"Get Subscriptions ""/""",200,OK,DB 2-23,text,true,,720,152,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,230,0,0
+1688655281967,210,"Get Subscriptions ""/""",200,OK,DB 2-145,text,true,,720,152,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,210,0,0
+1688655281982,216,Create Subscription,200,OK,DB 2-142,text,true,,259,440,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,216,0,0
+1688655279835,2650,"Get Subscriptions ""/""",200,OK,DB 2-98,text,true,,720,152,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,2650,0,0
+1688655281543,997,"Get Subscriptions ""/""",200,OK,DB 2-117,text,true,,720,152,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,997,0,0
+1688655280605,1972,"Get Subscriptions ""/""",200,OK,DB 2-151,text,true,,720,152,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,1972,0,0
+1688655281815,893,"Get Subscriptions ""/""",200,OK,DB 2-112,text,true,,720,152,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,893,0,0
+1688655282509,210,"Get Subscriptions ""/""",200,OK,DB 2-142,text,true,,720,152,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,210,0,0
+1688655280273,4238,"Get Subscriptions ""/index.css""",200,OK,DB 2-109,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,200,0,0
+1688655280273,4703,Create Subscription,200,OK,DB 2-60,text,true,,259,440,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/create_subscription,4703,0,0
+1688655279940,5037,"Get Subscriptions ""/""",200,OK,DB 2-130,text,true,,720,152,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,5037,0,0
+1688655285277,851,"Get Subscriptions ""/""",200,OK,DB 2-60,text,true,,720,152,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/,851,0,0
+1688655281059,5439,"Get Subscriptions ""/index.css""",200,OK,DB 2-114,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,223,0,0
+1688655280575,7651,"Get Subscriptions ""/index.css""",200,OK,DB 2-48,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688655280997,9095,"Get Subscriptions ""/index.css""",200,OK,DB 2-136,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,216,0,0
+1688655280906,9987,"Get Subscriptions ""/index.css""",200,OK,DB 2-120,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,2522,0,0
+1688655279683,11209,"Get Subscriptions ""/index.css""",200,OK,DB 2-5,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688655279910,11224,"Get Subscriptions ""/index.css""",200,OK,DB 2-44,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1238,0,0
+1688655280001,11676,"Get Subscriptions ""/index.css""",200,OK,DB 2-66,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,212,0,0
+1688655288531,3349,"Get Subscriptions ""/index.js""",200,OK,DB 2-48,text,true,,161868,160,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1249,0,0
+1688655279835,12686,"Get Subscriptions ""/index.css""",200,OK,DB 2-39,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,199,0,0
+1688655281212,11828,"Get Subscriptions ""/index.css""",200,OK,DB 2-156,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,215,0,0
+1688655281906,11143,"Get Subscriptions ""/index.css""",200,OK,DB 2-88,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,411,0,0
+1688655281181,12304,"Get Subscriptions ""/index.css""",200,OK,DB 2-159,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,210,0,0
+1688655281967,11668,"Get Subscriptions ""/index.css""",200,OK,DB 2-106,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688655282058,12044,"Get Subscriptions ""/index.css""",200,OK,DB 2-87,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,413,0,0
+1688655279744,14887,"Get Subscriptions ""/index.css""",200,OK,DB 2-11,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1783,0,0
+1688655279729,14982,"Get Subscriptions ""/index.css""",200,OK,DB 2-10,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,211,0,0
+1688655280530,14445,"Get Subscriptions ""/index.css""",200,OK,DB 2-33,text,true,,195718,161,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,222,0,0
+1688655292191,2928,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-48,text,true,,46963,165,160,470,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,216,0,0
+1688655280046,15390,"Get Subscriptions ""/index.css""",200,OK,DB 2-77,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,225,0,0
+1688655280650,14870,"Get Subscriptions ""/index.css""",200,OK,DB 2-81,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1823,0,0
+1688655279729,15830,"Get Subscriptions ""/index.css""",200,OK,DB 2-17,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,200,0,0
+1688655279729,16588,"Get Subscriptions ""/index.css""",200,OK,DB 2-6,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,623,0,0
+1688655281679,14749,"Get Subscriptions ""/index.css""",200,OK,DB 2-129,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1358,0,0
+1688655279970,17749,"Get Subscriptions ""/index.css""",200,OK,DB 2-57,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,207,0,0
+1688655280379,17361,"Get Subscriptions ""/index.css""",200,OK,DB 2-121,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688655280635,17922,"Get Subscriptions ""/index.css""",200,OK,DB 2-82,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,201,0,0
+1688655280560,18001,"Get Subscriptions ""/index.css""",200,OK,DB 2-28,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1635,0,0
+1688655280349,18522,"Get Subscriptions ""/index.css""",200,OK,DB 2-113,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,206,0,0
+1688655280695,18456,"Get Subscriptions ""/index.css""",200,OK,DB 2-89,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,200,0,0
+1688655280695,18495,"Get Subscriptions ""/index.css""",200,OK,DB 2-79,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688655280605,19573,"Get Subscriptions ""/index.css""",200,OK,DB 2-71,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,207,0,0
+1688655281181,20911,"Get Subscriptions ""/index.css""",200,OK,DB 2-104,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1991,0,0
+1688655280620,21562,"Get Subscriptions ""/index.css""",200,OK,DB 2-68,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1300,0,0
+1688655284825,17548,"Get Subscriptions ""/index.js""",200,OK,DB 2-109,text,true,,161868,160,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,855,0,0
+1688655281815,20767,"Get Subscriptions ""/index.css""",200,OK,DB 2-141,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1395,0,0
+1688655280484,22427,"Get Subscriptions ""/index.css""",200,OK,DB 2-31,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,480,0,0
+1688655280409,22647,"Get Subscriptions ""/index.css""",200,OK,DB 2-131,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,200,0,0
+1688655281227,21969,"Get Subscriptions ""/index.css""",200,OK,DB 2-64,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,725,0,0
+1688655295826,7470,"Get Subscriptions ""/index.js""",200,OK,DB 2-81,text,true,,161868,160,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,225,0,0
+1688655295871,7520,"Get Subscriptions ""/index.js""",200,OK,DB 2-17,text,true,,161868,160,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,593,0,0
+1688655281967,21411,"Get Subscriptions ""/index.css""",200,OK,DB 2-59,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1813,0,0
+1688655279940,23649,"Get Subscriptions ""/index.css""",200,OK,DB 2-51,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1077,0,0
+1688655281891,21808,"Get Subscriptions ""/index.css""",200,OK,DB 2-102,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,204,0,0
+1688655281318,22674,"Get Subscriptions ""/index.css""",200,OK,DB 2-74,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1351,0,0
+1688655281197,22880,"Get Subscriptions ""/index.css""",200,OK,DB 2-62,text,true,,195718,161,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1448,0,0
+1688655292011,12147,"Get Subscriptions ""/index.js""",200,OK,DB 2-66,text,true,,161868,160,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,414,0,0
+1688655302685,1649,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-109,text,true,,46963,165,159,469,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,416,0,0
+1688655279654,25006,"Get Subscriptions ""/index.css""",200,OK,DB 2-2,text,true,,195718,161,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,203,0,0
+1688655280001,24832,"Get Subscriptions ""/index.css""",200,OK,DB 2-67,text,true,,195718,161,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,709,0,0
+1688655281027,24034,"Get Subscriptions ""/index.css""",200,OK,DB 2-124,text,true,,195718,161,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,985,0,0
+1688655281348,24134,"Get Subscriptions ""/index.css""",200,OK,DB 2-85,text,true,,195718,161,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,710,0,0
+1688655279668,25984,"Get Subscriptions ""/index.css""",200,OK,DB 2-14,text,true,,195718,161,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,2101,0,0
+1688655281997,23712,"Get Subscriptions ""/index.css""",200,OK,DB 2-86,text,true,,195718,161,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,207,0,0
+1688655279729,26248,"Get Subscriptions ""/index.css""",200,OK,DB 2-16,text,true,,195718,161,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,205,0,0
+1688655280997,24956,"Get Subscriptions ""/index.css""",200,OK,DB 2-123,text,true,,195718,161,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,3069,0,0
+1688655291497,14578,"Get Subscriptions ""/index.js""",200,OK,DB 2-44,text,true,,161868,160,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,210,0,0
+1688655281120,25077,"Get Subscriptions ""/index.css""",200,OK,DB 2-95,text,true,,195718,161,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,205,0,0
+1688655281027,25740,"Get Subscriptions ""/index.css""",200,OK,DB 2-37,text,true,,195718,161,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1303,0,0
+1688655280197,26759,"Get Subscriptions ""/index.css""",200,OK,DB 2-12,text,true,,195718,161,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,908,0,0
+1688655280046,27439,"Get Subscriptions ""/index.css""",200,OK,DB 2-65,text,true,,195718,161,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,233,0,0
+1688655306381,1259,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-44,text,true,,46963,165,158,468,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,217,0,0
+1688655279774,27879,"Get Subscriptions ""/index.css""",200,OK,DB 2-18,text,true,,195718,161,157,467,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,675,0,0
+1688655303608,4341,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-81,text,true,,46963,165,157,467,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1217,0,0
+1688655279925,28133,"Get Subscriptions ""/index.css""",200,OK,DB 2-52,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688655298861,9361,"Get Subscriptions ""/index.js""",200,OK,DB 2-28,text,true,,161868,160,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,715,0,0
+1688655281815,26423,"Get Subscriptions ""/index.css""",200,OK,DB 2-147,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1226,0,0
+1688655281348,26924,"Get Subscriptions ""/index.css""",200,OK,DB 2-107,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1835,0,0
+1688655296733,11836,"Get Subscriptions ""/index.js""",200,OK,DB 2-129,text,true,,161868,160,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,214,0,0
+1688655291194,17401,"Get Subscriptions ""/index.js""",200,OK,DB 2-5,text,true,,161868,160,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,210,0,0
+1688655293790,15089,"Get Subscriptions ""/index.js""",200,OK,DB 2-159,text,true,,161868,160,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,209,0,0
+1688655279804,29248,"Get Subscriptions ""/index.css""",200,OK,DB 2-29,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,401,0,0
+1688655280469,28605,"Get Subscriptions ""/index.css""",200,OK,DB 2-144,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,201,0,0
+1688655280484,28856,"Get Subscriptions ""/index.css""",200,OK,DB 2-42,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,205,0,0
+1688655298861,10552,"Get Subscriptions ""/index.js""",200,OK,DB 2-82,text,true,,161868,160,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,417,0,0
+1688655280590,28882,"Get Subscriptions ""/index.css""",200,OK,DB 2-152,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,215,0,0
+1688655280424,29171,"Get Subscriptions ""/index.css""",200,OK,DB 2-127,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1966,0,0
+1688655280560,29129,"Get Subscriptions ""/index.css""",200,OK,DB 2-153,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,614,0,0
+1688655280061,29691,"Get Subscriptions ""/index.css""",200,OK,DB 2-90,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1558,0,0
+1688655279970,29826,"Get Subscriptions ""/index.css""",200,OK,DB 2-54,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1302,0,0
+1688655281815,28069,"Get Subscriptions ""/index.css""",200,OK,DB 2-128,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,724,0,0
+1688655280334,29603,"Get Subscriptions ""/index.css""",200,OK,DB 2-4,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,205,0,0
+1688655281212,29346,"Get Subscriptions ""/index.css""",200,OK,DB 2-99,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,215,0,0
+1688655292826,17909,"Get Subscriptions ""/index.js""",200,OK,DB 2-39,text,true,,161868,160,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,200,0,0
+1688655280469,30450,"Get Subscriptions ""/index.css""",200,OK,DB 2-40,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,5179,0,0
+1688655279835,31198,"Get Subscriptions ""/index.css""",200,OK,DB 2-21,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1934,0,0
+1688655281227,30302,"Get Subscriptions ""/index.css""",200,OK,DB 2-56,text,true,,195718,161,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,725,0,0
+1688655308525,3179,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-28,text,true,,46963,165,156,466,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,724,0,0
+1688655279729,32041,"Get Subscriptions ""/index.css""",200,OK,DB 2-1,text,true,,195718,161,155,465,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,3400,0,0
+1688655280937,30895,"Get Subscriptions ""/index.css""",200,OK,DB 2-19,text,true,,195718,161,155,465,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,2919,0,0
+1688655303504,8386,"Get Subscriptions ""/index.js""",200,OK,DB 2-64,text,true,,161868,160,155,465,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,885,0,0
+1688655281181,30726,"Get Subscriptions ""/index.css""",200,OK,DB 2-160,text,true,,195718,161,155,465,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1737,0,0
+1688655294408,17685,"Get Subscriptions ""/index.js""",200,OK,DB 2-87,text,true,,161868,160,155,465,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,414,0,0
+1688655299455,12705,"Get Subscriptions ""/index.js""",200,OK,DB 2-89,text,true,,161868,160,155,465,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,831,0,0
+1688655308901,3432,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-5,text,true,,46963,165,155,465,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,422,0,0
+1688655280379,32217,"Get Subscriptions ""/index.css""",200,OK,DB 2-101,text,true,,195718,161,154,464,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1420,0,0
+1688655304470,8139,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-66,text,true,,46963,165,154,464,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,649,0,0
+1688655309189,3826,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-159,text,true,,46963,165,153,463,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,724,0,0
+1688655300487,12561,"Get Subscriptions ""/index.js""",200,OK,DB 2-71,text,true,,161868,160,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,457,0,0
+1688655305954,7533,"Get Subscriptions ""/index.js""",200,OK,DB 2-14,text,true,,161868,160,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,200,0,0
+1688655281543,32326,"Get Subscriptions ""/index.css""",200,OK,DB 2-116,text,true,,195718,161,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,712,0,0
+1688655285277,28644,"Get Subscriptions ""/index.css""",200,OK,DB 2-130,text,true,,195718,161,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,6099,0,0
+1688655295736,18203,"Get Subscriptions ""/index.js""",200,OK,DB 2-77,text,true,,161868,160,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,418,0,0
+1688655281150,32919,"Get Subscriptions ""/index.css""",200,OK,DB 2-137,text,true,,195718,161,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,216,0,0
+1688655299500,14745,"Get Subscriptions ""/index.js""",200,OK,DB 2-79,text,true,,161868,160,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,629,0,0
+1688655281043,33284,"Get Subscriptions ""/index.css""",200,OK,DB 2-133,text,true,,195718,161,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1152,0,0
+1688655293354,21168,"Get Subscriptions ""/index.js""",200,OK,DB 2-88,text,true,,161868,160,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,409,0,0
+1688655294937,19655,"Get Subscriptions ""/index.js""",200,OK,DB 2-11,text,true,,161868,160,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,215,0,0
+1688655281135,33446,"Get Subscriptions ""/index.css""",200,OK,DB 2-155,text,true,,195718,161,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1165,0,0
+1688655280650,34434,"Get Subscriptions ""/index.css""",200,OK,DB 2-80,text,true,,195718,161,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,204,0,0
+1688655281120,34098,"Get Subscriptions ""/index.css""",200,OK,DB 2-125,text,true,,195718,161,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,216,0,0
+1688655281573,33722,"Get Subscriptions ""/index.css""",200,OK,DB 2-20,text,true,,195718,161,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,712,0,0
+1688655312404,2910,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-87,text,true,,46963,165,152,462,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,727,0,0
+1688655309717,5625,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-82,text,true,,46963,165,151,461,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,598,0,0
+1688655281318,34034,"Get Subscriptions ""/index.css""",200,OK,DB 2-73,text,true,,195718,161,150,460,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,2568,0,0
+1688655313793,1876,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-14,text,true,,46963,165,150,460,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,206,0,0
+1688655302397,13475,"Get Subscriptions ""/index.js""",200,OK,DB 2-104,text,true,,161868,160,149,459,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,440,0,0
+1688655303745,12391,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-17,text,true,,46963,165,149,459,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1676,0,0
+1688655295284,20822,"Get Subscriptions ""/index.js""",200,OK,DB 2-33,text,true,,161868,160,149,459,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1636,0,0
+1688655281709,34586,"Get Subscriptions ""/index.css""",200,OK,DB 2-132,text,true,,195718,161,148,458,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,211,0,0
+1688655308871,7487,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-129,text,true,,46963,165,148,458,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,725,0,0
+1688655293339,23252,"Get Subscriptions ""/index.js""",200,OK,DB 2-156,text,true,,161868,160,147,457,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,415,0,0
+1688655280876,36137,"Get Subscriptions ""/index.css""",200,OK,DB 2-94,text,true,,195718,161,147,457,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,215,0,0
+1688655280846,36329,"Get Subscriptions ""/index.css""",200,OK,DB 2-103,text,true,,195718,161,147,457,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,202,0,0
+1688655286440,30729,"Get Subscriptions ""/index.css""",200,OK,DB 2-60,text,true,,195718,161,147,457,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,620,0,0
+1688655280091,37210,"Get Subscriptions ""/index.css""",200,OK,DB 2-92,text,true,,195718,161,147,457,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,863,0,0
+1688655302487,14855,"Get Subscriptions ""/index.js""",200,OK,DB 2-68,text,true,,161868,160,147,457,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,417,0,0
+1688655314549,2824,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-79,text,true,,46963,165,147,457,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,422,0,0
+1688655312464,5089,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-89,text,true,,46963,165,146,456,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,711,0,0
+1688655295087,22591,"Get Subscriptions ""/index.js""",200,OK,DB 2-10,text,true,,161868,160,145,455,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,414,0,0
+1688655293941,24136,"Get Subscriptions ""/index.js""",200,OK,DB 2-106,text,true,,161868,160,145,455,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1584,0,0
+1688655314836,3699,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-88,text,true,,46963,165,145,454,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1231,0,0
+1688655312190,6533,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-64,text,true,,46963,165,144,453,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,641,0,0
+1688655316184,2547,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-104,text,true,,46963,165,143,452,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,406,0,0
+1688655281043,38569,"Get Subscriptions ""/index.css""",200,OK,DB 2-22,text,true,,195718,161,142,451,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,2375,0,0
+1688655305789,14068,"Get Subscriptions ""/index.js""",200,OK,DB 2-85,text,true,,161868,160,142,451,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,712,0,0
+1688655281212,38679,"Get Subscriptions ""/index.css""",200,OK,DB 2-154,text,true,,195718,161,142,451,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1418,0,0
+1688655280379,39574,"Get Subscriptions ""/index.css""",200,OK,DB 2-115,text,true,,195718,161,142,451,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,710,0,0
+1688655281815,38827,"Get Subscriptions ""/index.css""",200,OK,DB 2-61,text,true,,195718,161,142,451,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,966,0,0
+1688655310184,10675,"Get Subscriptions ""/index.js""",200,OK,DB 2-128,text,true,,161868,160,142,451,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,932,0,0
+1688655316893,4063,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-156,text,true,,46963,165,142,451,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,629,0,0
+1688655281059,40099,"Get Subscriptions ""/index.css""",200,OK,DB 2-119,text,true,,195718,161,141,450,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,3054,0,0
+1688655304304,17043,"Get Subscriptions ""/index.js""",200,OK,DB 2-74,text,true,,161868,160,141,450,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,2101,0,0
+1688655318006,3539,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-10,text,true,,46963,165,141,450,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1041,0,0
+1688655305366,16375,"Get Subscriptions ""/index.js""",200,OK,DB 2-124,text,true,,161868,160,140,449,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,725,0,0
+1688655280560,41156,"Get Subscriptions ""/index.css""",200,OK,DB 2-47,text,true,,195718,161,140,449,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,211,0,0
+1688655316470,5374,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-33,text,true,,46963,165,140,449,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,2907,0,0
+1688655281227,40646,"Get Subscriptions ""/index.css""",200,OK,DB 2-55,text,true,,195718,161,139,448,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,725,0,0
+1688655281815,40192,"Get Subscriptions ""/index.css""",200,OK,DB 2-135,text,true,,195718,161,139,448,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,424,0,0
+1688655320167,1864,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-85,text,true,,46963,165,139,448,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,428,0,0
+1688655307796,14275,"Get Subscriptions ""/index.js""",200,OK,DB 2-65,text,true,,161868,160,138,447,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,217,0,0
+1688655303369,19122,"Get Subscriptions ""/index.js""",200,OK,DB 2-131,text,true,,161868,160,138,447,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1281,0,0
+1688655306289,16408,"Get Subscriptions ""/index.js""",200,OK,DB 2-16,text,true,,161868,160,138,447,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,204,0,0
+1688655306016,16715,"Get Subscriptions ""/index.js""",200,OK,DB 2-86,text,true,,161868,160,138,447,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,714,0,0
+1688655309354,13693,"Get Subscriptions ""/index.js""",200,OK,DB 2-29,text,true,,161868,160,138,447,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,592,0,0
+1688655305139,18039,"Get Subscriptions ""/index.js""",200,OK,DB 2-67,text,true,,161868,160,138,447,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,907,0,0
+1688655281302,42264,"Get Subscriptions ""/index.css""",200,OK,DB 2-30,text,true,,195718,161,138,447,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,710,0,0
+1688655307080,16518,"Get Subscriptions ""/index.js""",200,OK,DB 2-37,text,true,,161868,160,138,447,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1325,0,0
+1688655281453,42361,"Get Subscriptions ""/index.css""",200,OK,DB 2-100,text,true,,195718,161,138,447,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,712,0,0
+1688655314957,9030,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-11,text,true,,46963,165,138,447,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,2637,0,0
+1688655307964,16206,"Get Subscriptions ""/index.js""",200,OK,DB 2-18,text,true,,161868,160,137,446,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1047,0,0
+1688655323109,1273,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-86,text,true,,46963,165,137,446,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,214,0,0
+1688655310244,14512,"Get Subscriptions ""/index.js""",200,OK,DB 2-4,text,true,,161868,160,136,445,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,204,0,0
+1688655303895,21387,"Get Subscriptions ""/index.js""",200,OK,DB 2-51,text,true,,161868,160,136,444,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,465,0,0
+1688655282210,44020,"Get Subscriptions ""/index.css""",200,OK,DB 2-45,text,true,,195718,161,136,444,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1877,0,0
+1688655323485,2916,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-67,text,true,,46963,165,136,444,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1676,0,0
+1688655321660,4767,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-74,text,true,,46963,165,135,443,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,627,0,0
+1688655317654,8856,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-68,text,true,,46963,165,134,442,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1140,0,0
+1688655322081,4854,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-124,text,true,,46963,165,133,441,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,427,0,0
+1688655282842,44197,"Get Subscriptions ""/index.css""",200,OK,DB 2-98,text,true,,195718,161,132,440,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,215,0,0
+1688655282058,45090,"Get Subscriptions ""/index.css""",200,OK,DB 2-111,text,true,,195718,161,132,440,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1435,0,0
+1688655311045,16304,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-39,text,true,,46963,165,132,440,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,601,0,0
+1688655318385,8957,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-106,text,true,,46963,165,132,440,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,726,0,0
+1688655303745,23825,"Get Subscriptions ""/index.js""",200,OK,DB 2-59,text,true,,161868,160,130,438,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,632,0,0
+1688655323908,3820,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-37,text,true,,46963,165,130,438,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,596,0,0
+1688655322383,5512,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-65,text,true,,46963,165,129,437,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,440,0,0
+1688655304001,23896,"Get Subscriptions ""/index.js""",200,OK,DB 2-102,text,true,,161868,160,128,436,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,402,0,0
+1688655324484,3890,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-18,text,true,,46963,165,128,436,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,637,0,0
+1688655286805,41539,"Get Subscriptions ""/index.js""",200,OK,DB 2-114,text,true,,161868,160,128,436,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1604,0,0
+1688655279925,48465,"Get Subscriptions ""/index.css""",200,OK,DB 2-43,text,true,,195718,161,127,435,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,3110,0,0
+1688655310109,18778,"Get Subscriptions ""/index.js""",200,OK,DB 2-54,text,true,,161868,160,127,435,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,209,0,0
+1688655325155,3906,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-4,text,true,,46963,165,127,435,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,690,0,0
+1688655310062,19184,"Get Subscriptions ""/index.js""",200,OK,DB 2-90,text,true,,161868,160,126,434,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,596,0,0
+1688655302885,26670,"Get Subscriptions ""/index.js""",200,OK,DB 2-141,text,true,,161868,160,126,434,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,435,0,0
+1688655322791,6817,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-131,text,true,,46963,165,126,434,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1233,0,0
+1688655317487,12301,"Get Subscriptions ""/index.js""",200,OK,DB 2-60,text,true,,161868,160,125,433,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,211,0,0
+1688655313416,17075,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-71,text,true,,46963,165,125,433,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,455,0,0
+1688655311226,19269,"Get Subscriptions ""/index.js""",200,OK,DB 2-40,text,true,,161868,160,124,432,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,411,0,0
+1688655309642,21286,"Get Subscriptions ""/index.js""",200,OK,DB 2-42,text,true,,161868,160,124,432,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,404,0,0
+1688655307293,23718,"Get Subscriptions ""/index.js""",200,OK,DB 2-12,text,true,,161868,160,124,432,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,438,0,0
+1688655282842,48368,"Get Subscriptions ""/index.css""",200,OK,DB 2-117,text,true,,195718,161,124,432,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,2591,0,0
+1688655325658,5630,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-51,text,true,,46963,165,124,432,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1277,0,0
+1688655308360,23167,"Get Subscriptions ""/index.js""",200,OK,DB 2-52,text,true,,161868,160,123,431,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,707,0,0
+1688655312145,19646,"Get Subscriptions ""/index.js""",200,OK,DB 2-19,text,true,,161868,160,123,430,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,713,0,0
+1688655315654,16348,"Get Subscriptions ""/index.js""",200,OK,DB 2-73,text,true,,161868,160,123,430,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1079,0,0
+1688655304379,27802,"Get Subscriptions ""/index.js""",200,OK,DB 2-62,text,true,,161868,160,123,430,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1696,0,0
+1688655328205,4347,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-102,text,true,,46963,165,123,430,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,411,0,0
+1688655329868,2829,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-141,text,true,,46963,165,122,429,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,659,0,0
+1688655280424,52315,"Get Subscriptions ""/index.css""",200,OK,DB 2-126,text,true,,195718,161,121,428,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,205,0,0
+1688655299194,33632,"Get Subscriptions ""/index.js""",200,OK,DB 2-113,text,true,,161868,160,121,428,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,209,0,0
+1688655328688,4195,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-114,text,true,,46963,165,121,428,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1329,0,0
+1688655314442,18559,"Get Subscriptions ""/index.js""",200,OK,DB 2-137,text,true,,161868,160,120,427,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,214,0,0
+1688655323003,10072,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-16,text,true,,46963,165,120,427,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,626,0,0
+1688655331323,2011,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-12,text,true,,46963,165,119,426,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,410,0,0
+1688655329203,4291,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-54,text,true,,46963,165,118,425,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,727,0,0
+1688655280273,53982,"Get Subscriptions ""/index.css""",200,OK,DB 2-97,text,true,,195718,161,117,424,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,212,0,0
+1688655306501,28065,"Get Subscriptions ""/index.js""",200,OK,DB 2-95,text,true,,161868,160,117,424,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1758,0,0
+1688655332311,2694,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-73,text,true,,46963,165,117,424,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,721,0,0
+1688655311875,23344,"Get Subscriptions ""/index.js""",200,OK,DB 2-56,text,true,,161868,160,116,423,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,210,0,0
+1688655329552,5721,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-90,text,true,,46963,165,116,423,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,409,0,0
+1688655333139,2803,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-113,text,true,,46963,165,115,422,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,421,0,0
+1688655330094,6207,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-60,text,true,,46963,165,114,421,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,421,0,0
+1688655332097,4428,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-19,text,true,,46963,165,113,420,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,600,0,0
+1688655309384,27214,"Get Subscriptions ""/index.js""",200,OK,DB 2-144,text,true,,161868,160,112,419,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,906,0,0
+1688655281027,55649,"Get Subscriptions ""/index.css""",200,OK,DB 2-140,text,true,,195718,161,112,419,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,203,0,0
+1688655331245,5550,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-42,text,true,,46963,165,112,419,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,411,0,0
+1688655331841,5033,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-52,text,true,,46963,165,111,418,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,673,0,0
+1688655280454,56571,"Get Subscriptions ""/index.css""",200,OK,DB 2-34,text,true,,195718,161,110,417,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1316,0,0
+1688655334879,2919,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-95,text,true,,46963,165,110,416,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,412,0,0
+1688655280799,57047,"Get Subscriptions ""/index.css""",200,OK,DB 2-84,text,true,,195718,161,109,415,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,714,0,0
+1688655315457,22912,"Get Subscriptions ""/index.js""",200,OK,DB 2-80,text,true,,161868,160,109,415,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,727,0,0
+1688655332490,5882,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-62,text,true,,46963,165,109,415,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1252,0,0
+1688655320257,19047,"Get Subscriptions ""/index.js""",200,OK,DB 2-115,text,true,,161868,160,108,413,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,921,0,0
+1688655280499,59220,"Get Subscriptions ""/index.css""",200,OK,DB 2-139,text,true,,195718,161,108,413,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,215,0,0
+1688655309897,29967,"Get Subscriptions ""/index.js""",200,OK,DB 2-127,text,true,,161868,160,108,413,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,870,0,0
+1688655309988,30316,"Get Subscriptions ""/index.js""",200,OK,DB 2-153,text,true,,161868,160,108,413,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,613,0,0
+1688655280680,59772,"Get Subscriptions ""/index.css""",200,OK,DB 2-58,text,true,,195718,161,108,413,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,215,0,0
+1688655312206,28307,"Get Subscriptions ""/index.js""",200,OK,DB 2-160,text,true,,161868,160,108,413,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1512,0,0
+1688655314171,26369,"Get Subscriptions ""/index.js""",200,OK,DB 2-116,text,true,,161868,160,108,413,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,711,0,0
+1688655338682,2263,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-80,text,true,,46963,165,108,412,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,408,0,198
+1688655327885,13414,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-59,text,true,,46963,165,107,411,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,974,0,0
+1688655335520,6160,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-56,text,true,,46963,165,106,410,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,429,0,0
+1688655280846,61569,"Get Subscriptions ""/index.css""",200,OK,DB 2-93,text,true,,195718,161,105,409,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1588,0,0
+1688655282889,59837,"Get Subscriptions ""/index.css""",200,OK,DB 2-151,text,true,,195718,161,105,409,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,397,0,0
+1688655306289,36498,"Get Subscriptions ""/index.js""",200,OK,DB 2-123,text,true,,161868,160,105,409,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,458,0,0
+1688655314957,27896,"Get Subscriptions ""/index.js""",200,OK,DB 2-155,text,true,,161868,160,105,409,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1513,0,0
+1688655304971,37948,"Get Subscriptions ""/index.js""",200,OK,DB 2-2,text,true,,161868,160,105,409,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,605,0,0
+1688655281105,61987,"Get Subscriptions ""/index.css""",200,OK,DB 2-134,text,true,,195718,161,105,409,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,844,0,0
+1688655320197,23433,"Get Subscriptions ""/index.js""",200,OK,DB 2-154,text,true,,161868,160,105,409,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,489,0,0
+1688655319926,23787,"Get Subscriptions ""/index.js""",200,OK,DB 2-22,text,true,,161868,160,105,409,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,919,0,0
+1688655343087,1038,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-123,text,true,,46963,165,105,409,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,423,0,206
+1688655340167,4386,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-127,text,true,,46963,165,104,408,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,416,0,202
+1688655322187,22356,"Get Subscriptions ""/index.js""",200,OK,DB 2-55,text,true,,161868,160,104,408,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,212,0,0
+1688655333306,11426,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-137,text,true,,46963,165,103,407,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,722,0,0
+1688655344025,994,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-22,text,true,,46963,165,102,406,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,405,0,197
+1688655323349,21901,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-29,text,true,,46963,165,101,405,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,411,0,0
+1688655322081,23505,"Get Subscriptions ""/index.js""",200,OK,DB 2-47,text,true,,161868,160,100,404,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,422,0,0
+1688655340879,4959,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-116,text,true,,46963,165,100,404,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1893,0,1215
+1688655321465,24390,"Get Subscriptions ""/index.js""",200,OK,DB 2-119,text,true,,161868,160,99,403,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,722,0,0
+1688655314639,31497,"Get Subscriptions ""/index.js""",200,OK,DB 2-133,text,true,,161868,160,99,403,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,853,0,0
+1688655344949,1182,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-55,text,true,,46963,165,99,403,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,403,0,196
+1688655317609,28767,"Get Subscriptions ""/index.js""",200,OK,DB 2-92,text,true,,161868,160,98,402,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1140,0,0
+1688655346162,1329,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-119,text,true,,46963,165,98,401,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,433,0,210
+1688655340879,7602,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-160,text,true,,46963,165,97,399,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1797,0,207
+1688655282434,66050,"Get Subscriptions ""/index.css""",200,OK,DB 2-23,text,true,,195718,161,96,398,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,421,0,0
+1688655308540,40241,"Get Subscriptions ""/index.js""",200,OK,DB 2-147,text,true,,161868,160,96,398,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,709,0,0
+1688655280650,68135,"Get Subscriptions ""/index.css""",200,OK,DB 2-76,text,true,,195718,161,96,398,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1545,0,0
+1688655281120,67802,"Get Subscriptions ""/index.css""",200,OK,DB 2-149,text,true,,195718,161,96,398,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,203,0,0
+1688655343224,5919,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-2,text,true,,46963,165,96,398,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,421,0,206
+1688655312903,36490,"Get Subscriptions ""/index.js""",200,OK,DB 2-101,text,true,,161868,160,95,396,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,724,0,0
+1688655338145,11523,"Get Subscriptions ""/index.js""",200,OK,DB 2-84,text,true,,161868,160,95,395,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,406,0,197
+1688655345995,4182,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-47,text,true,,46963,165,95,395,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,412,0,201
+1688655328704,21585,"Get Subscriptions ""/index.js""",200,OK,DB 2-43,text,true,,161868,160,94,394,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,726,0,0
+1688655330807,19685,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-40,text,true,,46963,165,94,394,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1253,0,0
+1688655291194,59355,"Get Subscriptions ""/index.js""",200,OK,DB 2-120,text,true,,161868,160,93,393,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,200,0,0
+1688655340607,10325,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-153,text,true,,46963,165,93,392,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1813,0,214
+1688655343934,7210,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-154,text,true,,46963,165,92,391,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,438,0,211
+1688655349093,2119,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-147,text,true,,46963,165,91,390,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,417,0,197
+1688655321161,30714,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-128,text,true,,46963,165,90,387,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,449,0,0
+1688655315609,36423,"Get Subscriptions ""/index.js""",200,OK,DB 2-20,text,true,,161868,160,89,386,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,404,0,0
+1688655350852,1267,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-120,text,true,,46963,165,89,386,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,431,0,210
+1688655331521,20795,"Get Subscriptions ""/index.js""",200,OK,DB 2-117,text,true,,161868,160,88,385,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,713,0,0
+1688655317487,34940,"Get Subscriptions ""/index.js""",200,OK,DB 2-103,text,true,,161868,160,88,385,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,462,0,0
+1688655314230,38314,"Get Subscriptions ""/index.js""",200,OK,DB 2-130,text,true,,161868,160,88,385,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1288,0,0
+1688655350609,2203,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-43,text,true,,46963,165,88,385,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,409,0,197
+1688655336975,16002,"Get Subscriptions ""/index.js""",200,OK,DB 2-140,text,true,,161868,160,87,384,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,401,0,0
+1688655311376,41603,"Get Subscriptions ""/index.js""",200,OK,DB 2-21,text,true,,161868,160,87,384,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,455,0,0
+1688655349699,3308,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-101,text,true,,46963,165,87,384,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1422,0,1207
+1688655280273,73247,"Get Subscriptions ""/index.css""",200,OK,DB 2-96,text,true,,195718,161,86,383,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,203,0,0
+1688655280515,73645,"Get Subscriptions ""/index.css""",200,OK,DB 2-38,text,true,,195718,161,86,383,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,207,0,0
+1688655349972,4192,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-84,text,true,,46963,165,86,383,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,712,0,0
+1688655353279,1074,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-140,text,true,,46963,165,85,381,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,410,0,200
+1688655281318,73227,"Get Subscriptions ""/index.css""",200,OK,DB 2-118,text,true,,195718,161,84,380,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,202,0,0
+1688655352630,1929,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-117,text,true,,46963,165,84,380,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,420,0,206
+1688655352856,1704,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-130,text,true,,46963,165,83,379,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,424,0,208
+1688655296627,57934,"Get Subscriptions ""/index.js""",200,OK,DB 2-6,text,true,,161868,160,82,378,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,710,0,0
+1688655352342,2514,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-20,text,true,,46963,165,82,377,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,412,0,200
+1688655334566,20458,"Get Subscriptions ""/index.js""",200,OK,DB 2-97,text,true,,161868,160,81,376,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,725,0,0
+1688655346691,9071,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-92,text,true,,46963,165,81,376,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,426,0,207
+1688655353294,3271,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-21,text,true,,46963,165,80,375,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1501,0,207
+1688655343164,14925,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-155,text,true,,46963,165,79,372,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1996,0,201
+1688655352735,5665,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-103,text,true,,46963,165,78,371,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,419,0,205
+1688655315518,43607,"Get Subscriptions ""/index.js""",200,OK,DB 2-125,text,true,,161868,160,77,370,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1224,0,0
+1688655343027,16326,"Get Subscriptions ""/index.js""",200,OK,DB 2-151,text,true,,161868,160,77,370,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,907,0,196
+1688655354871,4547,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-6,text,true,,46963,165,77,370,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,490,0,210
+1688655279759,79852,"Get Subscriptions ""/index.css""",Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 195,432; received: 109,914)",DB 2-24,text,false,,1333,0,76,369,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,459,0,0
+1688655343420,16908,"Get Subscriptions ""/index.js""",200,OK,DB 2-134,text,true,,161868,160,76,368,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,5650,0,196
+1688655346479,13881,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-133,text,true,,46963,165,76,367,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,2069,0,209
+1688655340758,20017,"Get Subscriptions ""/index.js""",200,OK,DB 2-58,text,true,,161868,160,75,366,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,413,0,206
+1688655348790,12010,"Get Subscriptions ""/index.js""",200,OK,DB 2-23,text,true,,161868,160,75,366,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,416,0,206
+1688655298046,62819,"Get Subscriptions ""/index.js""",200,OK,DB 2-121,text,true,,161868,160,75,366,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1252,0,0
+1688655342722,18724,"Get Subscriptions ""/index.js""",200,OK,DB 2-93,text,true,,161868,160,75,366,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,868,0,201
+1688655280784,80872,"Get Subscriptions ""/index.css""",200,OK,DB 2-83,text,true,,195718,161,75,366,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,925,0,0
+1688655327463,34938,"Get Subscriptions ""/index.js""",200,OK,DB 2-111,text,true,,161868,160,75,365,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,650,0,0
+1688655333048,30107,"Get Subscriptions ""/index.js""",200,OK,DB 2-126,text,true,,161868,160,75,365,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,445,0,0
+1688655359699,3492,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-151,text,true,,46963,165,75,365,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,433,0,0
+1688655361091,2371,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-58,text,true,,46963,165,74,364,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,420,0,0
+1688655279639,83940,"Get Subscriptions ""/index.css""",Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 195,432; received: 77,510)",DB 2-8,text,false,,1332,0,73,363,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1008,0,0
+1688655355339,8480,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-97,text,true,,46963,165,73,363,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,407,0,198
+1688655283009,81241,"Get Subscriptions ""/index.css""",Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 195,432; received: 139,602)",DB 2-112,text,false,,1333,0,72,362,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,203,0,0
+1688655281197,83654,"Get Subscriptions ""/index.css""",200,OK,DB 2-148,text,true,,195718,161,72,362,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,725,0,0
+1688655327343,38096,"Get Subscriptions ""/index.js""",200,OK,DB 2-98,text,true,,161868,160,72,362,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,724,0,0
+1688655360636,5107,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-134,text,true,,46963,165,72,362,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,669,0,0
+1688655359427,6633,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-125,text,true,,46963,165,71,360,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,414,0,201
+1688655354462,12079,"Get Subscriptions ""/index.js""",200,OK,DB 2-38,text,true,,161868,160,70,357,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,437,0,216
+1688655337337,29861,"Get Subscriptions ""/index.js""",200,OK,DB 2-34,text,true,,161868,160,70,355,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1384,0,0
+1688655365742,1527,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-98,text,true,,46963,165,70,355,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,432,0,211
+1688655322307,45103,"Get Subscriptions ""/index.js""",200,OK,DB 2-135,text,true,,161868,160,69,354,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,631,0,0
+1688655361244,6478,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-121,text,true,,46963,165,69,354,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,2513,0,204
+1688655281468,86291,"Get Subscriptions ""/index.css""",200,OK,DB 2-105,text,true,,195718,161,68,353,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1419,0,0
+1688655320950,46808,"Get Subscriptions ""/index.js""",200,OK,DB 2-61,text,true,,161868,160,68,353,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,405,0,0
+1688655366845,1520,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-38,text,true,,46963,165,68,352,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,443,0,0
+1688655282345,86336,"Get Subscriptions ""/index.css""",200,OK,DB 2-63,text,true,,195718,161,67,350,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,5337,0,0
+1688655361106,7699,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-23,text,true,,46963,165,67,350,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,479,0,0
+1688655367808,1046,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-135,text,true,,46963,165,66,349,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,428,0,209
+1688655323877,44998,"Get Subscriptions ""/index.js""",200,OK,DB 2-30,text,true,,161868,160,65,348,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,912,0,0
+1688655339607,29270,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-115,text,true,,46963,165,65,348,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,3435,0,202
+1688655367502,1546,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-34,text,true,,46963,165,64,347,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,412,0,199
+1688655309822,60230,"Get Subscriptions ""/index.js""",200,OK,DB 2-152,text,true,,161868,160,63,345,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,699,0,0
+1688655281150,89248,"Get Subscriptions ""/index.css""",200,OK,DB 2-157,text,true,,195718,161,63,344,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,205,0,0
+1688655336899,33720,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-144,text,true,,46963,165,63,344,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,713,0,0
+1688655281302,89673,"Get Subscriptions ""/index.css""",200,OK,DB 2-78,text,true,,195718,161,62,343,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,468,0,0
+1688655369189,1924,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-30,text,true,,46963,165,62,343,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,436,0,212
+1688655368065,3174,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-61,text,true,,46963,165,61,342,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,414,0,204
+1688655281302,90575,"Get Subscriptions ""/index.css""",200,OK,DB 2-75,text,true,,195718,161,60,340,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,205,0,0
+1688655298031,74326,"Get Subscriptions ""/index.js""",200,OK,DB 2-57,text,true,,161868,160,60,339,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,413,0,0
+1688655280997,91667,"Get Subscriptions ""/index.css""",200,OK,DB 2-122,text,true,,195718,161,60,339,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,2253,0,0
+1688655363468,9458,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-126,text,true,,46963,165,60,339,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1456,0,1201
+1688655349093,24052,"Get Subscriptions ""/index.js""",200,OK,DB 2-76,text,true,,161868,160,59,338,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,427,0,212
+1688655280046,93476,"Get Subscriptions ""/index.css""",200,OK,DB 2-70,text,true,,195718,161,59,338,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,3402,0,0
+1688655365152,8768,"Get Subscriptions ""/index.js""",200,OK,DB 2-148,text,true,,161868,160,59,336,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,415,0,206
+1688655372667,1509,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-57,text,true,,46963,165,59,334,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,418,0,204
+1688655280454,94366,"Get Subscriptions ""/index.css""",200,OK,DB 2-138,text,true,,195718,161,58,333,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,205,0,0
+1688655281166,93766,"Get Subscriptions ""/index.css""",200,OK,DB 2-143,text,true,,195718,161,58,333,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1615,0,0
+1688655324135,51901,"Get Subscriptions ""/index.js""",200,OK,DB 2-100,text,true,,161868,160,58,332,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,714,0,0
+1688655370364,5982,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-152,text,true,,46963,165,58,332,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1564,0,201
+1688655361756,15038,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-93,text,true,,46963,165,57,331,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,434,0,0
+1688655373457,3416,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-76,text,true,,46963,165,56,330,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,432,0,0
+1688655374230,3536,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-148,text,true,,46963,165,55,329,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1278,0,0
+1688655376351,1457,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-100,text,true,,46963,165,54,328,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,428,0,211
+1688655349230,30251,"Get Subscriptions ""/index.js""",200,OK,DB 2-149,text,true,,161868,160,53,323,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1759,0,198
+1688655280545,98997,"Get Subscriptions ""/index.css""",200,OK,DB 2-46,text,true,,195718,161,53,323,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1785,0,0
+1688655364559,16880,"Get Subscriptions ""/index.js""",200,OK,DB 2-112,text,true,,161868,160,53,322,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,431,0,215
+1688655362712,19133,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-111,text,true,,46963,165,53,321,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1590,0,208
+1688655372970,10693,"Get Subscriptions ""/index.js""",200,OK,DB 2-122,text,true,,161868,160,52,318,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,399,0,198
+1688655368991,14697,"Get Subscriptions ""/index.js""",200,OK,DB 2-63,text,true,,161868,160,52,318,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,408,0,202
+1688655371368,12438,"Get Subscriptions ""/index.js""",200,OK,DB 2-78,text,true,,161868,160,52,318,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,423,0,211
+1688655381747,2753,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-112,text,true,,46963,165,52,318,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,433,0,0
+1688655368065,19219,"Get Subscriptions ""/index.js""",200,OK,DB 2-105,text,true,,161868,160,51,314,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,430,0,214
+1688655384116,3401,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-78,text,true,,46963,165,51,313,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,223,0,0
+1688655375242,12315,"Get Subscriptions ""/index.js""",200,OK,DB 2-143,text,true,,161868,160,50,312,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,424,0,209
+1688655370698,19343,"Get Subscriptions ""/index.js""",200,OK,DB 2-157,text,true,,161868,160,50,306,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1493,0,211
+1688655353824,37055,"Get Subscriptions ""/index.js""",200,OK,DB 2-96,text,true,,161868,160,50,304,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,839,0,206
+1688655387594,3457,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-105,text,true,,46963,165,50,303,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,439,0,0
+1688655383966,7374,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-122,text,true,,46963,165,49,301,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1544,0,0
+1688655379790,11757,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-149,text,true,,46963,165,48,300,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,2454,0,0
+1688655281513,111471,"Get Subscriptions ""/index.css""",200,OK,DB 2-108,text,true,,195718,161,47,297,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,203,0,0
+1688655372184,23947,"Get Subscriptions ""/index.js""",200,OK,DB 2-75,text,true,,161868,160,47,291,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,402,0,199
+1688655373910,24240,"Get Subscriptions ""/index.js""",200,OK,DB 2-70,text,true,,161868,160,47,286,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,423,0,206
+1688655317319,82282,"Get Subscriptions ""/index.js""",200,OK,DB 2-94,text,true,,161868,160,47,284,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,718,0,0
+1688655390353,9577,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-157,text,true,,46963,165,47,282,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,728,0,0
+1688655279970,120743,"Get Subscriptions ""/index.css""",Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 195,432; received: 143,838)",DB 2-50,text,false,,1333,0,46,279,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,996,0,0
+1688655387868,13327,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-143,text,true,,46963,165,46,278,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,3167,0,0
+1688655363894,37561,"Get Subscriptions ""/index.js""",200,OK,DB 2-8,text,true,,161868,160,45,276,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,402,0,200
+1688655398463,4124,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-70,text,true,,46963,165,45,273,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,426,0,0
+1688655354856,48613,"Get Subscriptions ""/index.js""",200,OK,DB 2-118,text,true,,161868,160,44,268,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1863,0,212
+1688655396443,7252,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-75,text,true,,46963,165,44,267,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,411,0,0
+1688655383996,21667,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-63,text,true,,46963,165,43,263,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,725,0,0
+1688655401770,4614,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-8,text,true,,46963,165,42,260,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1311,0,0
+1688655393291,14402,"Get Subscriptions ""/index.js""",200,OK,DB 2-108,text,true,,161868,160,41,251,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,433,0,215
+1688655403769,5377,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-118,text,true,,46963,165,41,244,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,439,0,0
+1688655379851,29471,"Get Subscriptions ""/index.js""",200,OK,DB 2-46,text,true,,161868,160,40,243,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,939,0,212
+1688655399909,9877,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-94,text,true,,46963,165,40,242,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,2307,0,216
+1688655391187,19185,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-96,text,true,,46963,165,39,237,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,732,0,0
+1688655407999,4187,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-108,text,true,,46963,165,38,231,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,654,0,0
+1688655359926,52768,"Get Subscriptions ""/index.js""",200,OK,DB 2-24,text,true,,161868,160,37,228,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,2997,0,211
+1688655375122,40789,"Get Subscriptions ""/index.js""",200,OK,DB 2-138,text,true,,161868,160,37,221,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1409,0,1208
+1688655340031,76316,"Get Subscriptions ""/index.js""",200,OK,DB 2-139,text,true,,161868,160,37,218,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,428,0,214
+1688655409630,7180,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-46,text,true,,46963,165,37,215,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,925,0,0
+1688655413003,4521,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-24,text,true,,46963,165,36,211,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1389,0,0
+1688655416663,1142,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-139,text,true,,46963,165,35,207,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,419,0,203
+1688655416224,2310,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-138,text,true,,46963,165,34,199,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,453,0,0
+1688655401016,17682,"Get Subscriptions ""/index.js""",200,OK,DB 2-50,text,true,,161868,160,33,195,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,438,0,200
+1688655419008,1419,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-50,text,true,,46963,165,33,177,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,421,0,0
+1688655280590,142183,"Get Subscriptions ""/index.css""",Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 195,432; received: 143,738)",DB 2-150,text,false,,1333,0,32,153,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1563,0,0
+1688655279925,143391,"Get Subscriptions ""/index.css""",Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 195,432; received: 73,138)",DB 2-53,text,false,,1332,0,32,149,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1950,0,0
+1688655279744,145009,"Get Subscriptions ""/index.css""",200,OK,DB 2-13,text,true,,195718,161,32,141,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,912,0,0
+1688655423086,2218,"Get Subscriptions ""/index.js""",200,OK,DB 2-150,text,true,,161868,160,32,138,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,405,0,199
+1688655423621,2274,"Get Subscriptions ""/index.js""",200,OK,DB 2-53,text,true,,161868,160,32,128,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,417,0,207
+1688655425605,612,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-150,text,true,,46963,165,32,127,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,213,0,0
+1688655312071,114408,"Get Subscriptions ""/index.js""",Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 161,568; received: 68,888)",DB 2-1,text,false,,1332,0,31,125,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,887,0,0
+1688655426203,627,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-53,text,true,,46963,165,31,124,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,217,0,0
+1688655425055,2354,"Get Subscriptions ""/index.js""",200,OK,DB 2-13,text,true,,161868,160,30,120,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,430,0,214
+1688655426787,1045,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-1,text,true,,46963,165,30,118,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,428,0,207
+1688655427715,656,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-13,text,true,,46963,165,29,116,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,230,0,0
+1688655280695,148057,"Get Subscriptions ""/index.css""",Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 195,432; received: 74,550)",DB 2-72,text,false,,1332,0,28,115,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,713,0,0
+1688655316607,112313,"Get Subscriptions ""/index.js""",Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 161,568; received: 73,124)",DB 2-132,text,false,,1332,0,28,115,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1613,0,0
+1688655361968,67166,"Get Subscriptions ""/index.js""",200,OK,DB 2-83,text,true,,161868,160,28,114,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,436,0,222
+1688655429229,1060,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-132,text,true,,46963,165,28,113,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,433,0,210
+1688655429446,1021,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-83,text,true,,46963,165,27,112,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,419,0,203
+1688655429107,2181,"Get Subscriptions ""/index.js""",200,OK,DB 2-72,text,true,,161868,160,26,110,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,412,0,198
+1688655431594,611,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-72,text,true,,46963,165,26,108,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,217,0,0
+1688655282149,155298,"Get Subscriptions ""/index.css""",Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 195,432; received: 105,714)",DB 2-146,text,false,,1333,0,25,102,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,204,0,0
+1688655437756,2360,"Get Subscriptions ""/index.js""",200,OK,DB 2-146,text,true,,161868,160,25,99,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,434,0,214
+1688655440430,652,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-146,text,true,,46963,165,25,98,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,227,0,0
+1688655326540,126297,"Get Subscriptions ""/index.js""",200,OK,DB 2-45,text,true,,161868,160,24,90,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1973,0,0
+1688655453149,856,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-45,text,true,,46963,165,24,90,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,441,0,209
+1688655279895,181953,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-41,text,false,,1531,0,23,88,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688655462152,2269,"Get Subscriptions ""/index.js""",200,OK,DB 2-41,text,true,,161868,160,23,88,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,407,0,201
+1688655464732,625,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-41,text,true,,46963,165,23,88,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,225,0,0
+1688655279940,187940,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-49,text,false,,1531,0,22,86,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,2577,0,0
+1688655280665,187416,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-69,text,false,,1531,0,22,86,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688655468188,2273,"Get Subscriptions ""/index.js""",200,OK,DB 2-49,text,true,,161868,160,22,82,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,417,0,206
+1688655468407,2381,"Get Subscriptions ""/index.js""",200,OK,DB 2-69,text,true,,161868,160,22,81,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,436,0,217
+1688655470764,633,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-49,text,true,,46963,165,22,81,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,223,0,0
+1688655279729,191860,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-3,text,false,,1531,0,21,80,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1289,0,0
+1688655279729,191960,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-7,text,false,,1531,0,21,79,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1131,0,0
+1688655280394,191344,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-26,text,false,,1531,0,21,79,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1346,0,0
+1688655471088,660,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-69,text,true,,46963,165,21,79,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,229,0,0
+1688655279910,191890,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-35,text,false,,1531,0,20,78,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,220,0,0
+1688655281619,192045,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-15,text,false,,1531,0,20,76,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,920,0,0
+1688655279880,193889,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-32,text,false,,1531,0,20,75,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1362,0,0
+1688655279880,193917,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-27,text,false,,1531,0,20,75,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,5797,0,0
+1688655471989,2340,"Get Subscriptions ""/index.js""",200,OK,DB 2-3,text,true,,161868,160,20,72,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,426,0,213
+1688655472051,2928,"Get Subscriptions ""/index.js""",200,OK,DB 2-26,text,true,,161868,160,20,72,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,420,0,209
+1688655472111,3109,"Get Subscriptions ""/index.js""",200,OK,DB 2-35,text,true,,161868,160,20,72,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,416,0,207
+1688655474636,649,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-3,text,true,,46963,165,20,71,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,245,0,0
+1688655474071,1336,"Get Subscriptions ""/index.js""",200,OK,DB 2-32,text,true,,161868,160,19,70,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,402,0,198
+1688655474101,1339,"Get Subscriptions ""/index.js""",200,OK,DB 2-27,text,true,,161868,160,19,70,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,417,0,206
+1688655473966,1482,"Get Subscriptions ""/index.js""",200,OK,DB 2-15,text,true,,161868,160,19,70,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,427,0,211
+1688655290392,185093,"Get Subscriptions ""/index.js""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-136,text,false,,1531,0,19,70,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,208,0,0
+1688655283024,192466,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-142,text,false,,1531,0,19,70,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,711,0,0
+1688655280424,195366,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-25,text,false,,1531,0,19,69,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1695,0,0
+1688655475284,685,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-26,text,true,,46963,165,19,69,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,220,0,0
+1688655471989,4036,"Get Subscriptions ""/index.js""",200,OK,DB 2-7,text,true,,161868,160,18,68,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,409,0,204
+1688655475743,425,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-27,text,true,,46963,165,18,68,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,217,0,0
+1688655475758,435,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-15,text,true,,46963,165,18,68,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,222,0,0
+1688655475528,634,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-35,text,true,,46963,165,18,68,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,220,0,0
+1688655475713,409,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-32,text,true,,46963,165,18,68,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,212,0,0
+1688655280334,195969,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-110,text,false,,1531,0,14,64,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1951,0,0
+1688655475788,840,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-136,text,true,,46963,165,14,64,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,422,0,205
+1688655476337,663,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-7,text,true,,46963,165,13,63,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,214,0,0
+1688655475803,1875,"Get Subscriptions ""/index.js""",200,OK,DB 2-142,text,true,,161868,160,12,61,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,440,0,216
+1688655476615,1216,"Get Subscriptions ""/index.js""",200,OK,DB 2-110,text,true,,161868,160,12,61,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,395,0,196
+1688655477978,442,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-142,text,true,,46963,165,12,52,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,227,0,0
+1688655476093,2340,"Get Subscriptions ""/index.js""",200,OK,DB 2-25,text,true,,161868,160,11,51,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,407,0,202
+1688655478131,404,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-110,text,true,,46963,165,11,51,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,207,0,0
+1688655478745,614,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-25,text,true,,46963,165,10,48,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,213,0,0
+1688655280515,199346,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-36,text,false,,1531,0,9,46,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1785,0,0
+1688655480171,1437,"Get Subscriptions ""/index.js""",200,OK,DB 2-36,text,true,,161868,160,9,40,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,415,0,205
+1688655481909,419,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-36,text,true,,46963,165,9,39,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,215,0,0
+1688655310864,177332,"Get Subscriptions ""/index.js""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-99,text,false,,1531,0,8,27,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,633,0,0
+1688655488496,835,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-99,text,true,,46963,165,8,27,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,423,0,206
+1688655308571,181706,"Get Subscriptions ""/index.js""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-107,text,false,,1531,0,7,26,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,1320,0,0
+1688655490576,814,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-107,text,true,,46963,165,7,26,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,414,0,200
+1688655280605,213957,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-158,text,false,,1531,0,6,25,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,3587,0,0
+1688655314245,181844,"Get Subscriptions ""/subscriptions""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-77,text,false,,1531,0,6,23,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,924,0,0
+1688655494875,1380,"Get Subscriptions ""/index.js""",200,OK,DB 2-158,text,true,,161868,160,5,22,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,397,0,197
+1688655496556,404,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-158,text,true,,46963,165,5,22,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,209,0,0
+1688655282479,216027,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-145,text,false,,1531,0,4,21,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,1483,0,0
+1688655498815,1532,"Get Subscriptions ""/index.js""",200,OK,DB 2-145,text,true,,161868,160,4,20,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,450,0,232
+1688655303248,197542,"Get Subscriptions ""/index.js""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-31,text,false,,1531,0,4,20,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,685,0,0
+1688655500647,444,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-145,text,true,,46963,165,4,20,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,228,0,0
+1688655501097,867,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-31,text,true,,46963,165,3,17,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,443,0,218
+1688655282058,243091,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,DB 2-91,text,false,,1531,0,2,8,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,415,0,0
+1688655525449,10248,"Get Subscriptions ""/index.js""",200,OK,DB 2-91,text,true,,161868,160,2,6,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.js,400,0,198
+1688655536007,2445,"Get Subscriptions ""/subscriptions""",Non HTTP response code: java.net.SocketException,Non HTTP response message: socket closed,DB 2-91,text,false,,1646,0,2,2,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/subscriptions,1335,0,0
+1688655279668,258785,"Get Subscriptions ""/index.css""",Non HTTP response code: java.net.SocketException,Non HTTP response message: socket closed,DB 2-9,text,false,,1646,0,1,1,http://fargatelb-459321754.us-east-1.elb.amazonaws.com/index.css,203,0,0
