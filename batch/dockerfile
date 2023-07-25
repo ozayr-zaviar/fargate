@@ -1,0 +1,15 @@
+# Use the official Python 3 base image
+FROM python:3
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy the Python script to the working directory
+COPY job.py /app
+
+COPY requirements.txt /app
+
+RUN pip install -r requirements.txt
+
+# Run the Python script
+CMD ["python", "job.py"]

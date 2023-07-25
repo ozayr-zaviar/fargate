@@ -1,0 +1,27 @@
+# Use the official Node.js runtime as the base image
+FROM node:18
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# ENV FE_HOST localhost
+# ENV FE_PORT 4173
+# ENV DB_HOST thesis.c41xgmauipnh.us-east-1.rds.amazonaws.com
+# ENV DB_PORT 7700
+# ENV BATCH_HOST localhost
+# ENV BATCH_PORT 8800
+
+# Copy the package.json and package-lock.json files to the working directory
+COPY package*.json /app
+
+# Install the application dependencies
+RUN npm install
+
+# Copy the rest of the application code to the working directory
+COPY . /app
+
+# Expose the port on which your application will run
+EXPOSE 80
+
+# Set the command to run your application
+CMD ["node", "index.js"]
